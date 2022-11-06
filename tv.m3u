@@ -1974,8 +1974,8 @@ http://live-1.otcnet.ru/mcm/tracks-v1a1/mono.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Премьер HD
+http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Футбол 1
 http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Футбол 1
