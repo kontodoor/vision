@@ -41,8 +41,6 @@ http://5.254.16.186/MirBelogorya/index.m3u8
 http://5.254.16.186/Moskva24/index.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1
 http://st.kglive.asia/hls/tv1kg.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://limehd.tv/images/seo/svoetv_1.jpg",Своё ТВ
-http://bsttv.bonus-tv.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://dimgrad24.ru/images/new/favicon.png",Димград 24 HD
 http://live-1.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://assets.limehd.tv/uploads/channel/10479/thumb_5194bd2a640b74872fdd9eaeded82a97.png",Первый Псковский
