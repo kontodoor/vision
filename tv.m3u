@@ -372,40 +372,16 @@ http://portal.ott.pink/watch/7006/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 
 
 
-#EXTINF:-1 group-title="Байкал-Телеком",ТНТ4 +4
-http://194.143.148.28:8080/TNT4/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",2x2 +4
-http://194.143.148.28:8080/2x2/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",ЧЕ +4
-http://194.143.148.28:8080/CHE/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",СТС Love
-http://194.143.148.28:8080/CTCLove/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",НТВ Хит
-http://194.143.148.28:8080/NTVHit/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком",TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком",Студия Радио MCM - Иркутск HD
 http://194.143.148.28:8080/MCM/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком" tvg-logo="https://assets.iptv2022.com/static/channel/10435/logo_128_1652790001.png",ТИВИСИ (Иркутск)
-http://194.143.148.28:8080/TVC/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",TDK
-http://194.143.148.28:8080/TDK/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком",RT Doc
 http://194.143.148.28:8080/RTD_HD/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Известия HD
-http://194.143.148.28:8080/Izvestiya/mpegts
 #EXTINF:-1,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/index.m3u8
-#EXTINF:-1 group-title="Байкал-Телеком",ТНТ Music
-http://194.143.148.28:8080/TNTMusic/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",RU.TV
-http://194.143.148.28:8080/RUTV/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком",MCM TOP HD
 http://194.143.148.28:8080/MCM/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Суббота
-http://194.143.148.28:8080/Subbota/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",TDK
-http://194.143.148.28:8080/TDK/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком",Тномер
 http://194.143.148.28:8080/Tnomer/mpegts
 #EXTINF:-1 group-title="Байкал-Телеком",Аист ТВ
