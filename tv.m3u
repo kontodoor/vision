@@ -1775,16 +1775,6 @@ http://193.233.9.49/streams/media/Rossiya_24/index.m3u8
 http://193.233.9.49/streams/media/TNT/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",ТНТ4
 http://193.233.9.49/streams/media/TNT4/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",Animal Planet HD
-http://193.233.9.49/streams/media/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",Nat Geo Wild HD
-http://193.233.9.49/streams/media/Nat_Geo_Wild_HD/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",National Geographic HD
-http://193.233.9.49/streams/media/National_Geographic_HD/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",Discovery Science
-http://193.233.9.49/streams/media/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",Телепутешествия
-http://193.233.9.49/streams/media/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Viasat History HD
 http://193.233.9.49/streams/media/Viasat_History/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Viasat Nature HD
@@ -1811,14 +1801,10 @@ http://193.233.9.49/streams/media/Dom_kino/index.m3u8
 http://193.233.9.49/streams/media/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Домашние животные
 http://193.233.9.49/streams/media/Domashnie_zhivotnye/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",Дождь
-http://193.233.9.49/streams/media/Dozhd/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Драйв
 http://193.233.9.49/streams/media/Draiv/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Еврокино
 http://193.233.9.49/streams/media/EVROKINO/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",FOX HD
-http://193.233.9.49/streams/media/FOX_HD/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Fox Life
 http://193.233.9.49/streams/media/Fox_Life/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Fox Life HD
@@ -1845,8 +1831,6 @@ http://193.233.9.49/streams/media/Lubimoe_kino/index.m3u8
 http://193.233.9.49/streams/media/MTV_HITS/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",1HD
 http://193.233.9.49/streams/media/1_HD/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",MTV Live HD
-http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Пятница
 http://193.233.9.49/streams/media/PYATNICA/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Ретро
@@ -1865,8 +1849,6 @@ http://193.233.9.49/streams/media/ZOOPARK/index.m3u8
 http://193.233.9.49/streams/media/Disney/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Мама
 http://193.233.9.49/streams/media/Mama/index.m3u8
-#EXTINF:-1 group-title="Восток-Телеком (VPN)",Nicktoons
-http://193.233.9.49/streams/media/A1/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Карусель
 http://193.233.9.49/streams/media/Karusel/index.m3u8
 #EXTINF:-1 group-title="Восток-Телеком (VPN)",Мультимания
