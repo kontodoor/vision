@@ -14,20 +14,7 @@ https://drive.google.com/uc?export=download&id=1nWk_eLR6bw7kdGWy50ftULkuCu_NFdPa
 
 
 
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://i.postimg.cc/zX7YnPrt/983.png",CHD TV Rock
-http://stream1.chd-servers.ml/chdtvrock/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://i.postimg.cc/Fz6XX5Mw/984.png",CHD TV RU Rock
-http://stream1.chd-servers.ml/chdtvrurock/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵",Ani
-https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
-#EXTINF:-1 group-title="TEST  ⓵",Мульт
-http://bsttv.bonus-tv.ru/cdn/mult/playlist.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/618.png",Мама
-http://bsttv.bonus-tv.ru/cdn/mama/playlist.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://iptvxcdn.ml/312-kino.png",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/1371.png",Amedia 1
-https://str2.redmax.tv:443/Amedia1/index.m3u8
+
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/2268.png",CGTN Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - ХИТ
@@ -38,10 +25,6 @@ https://edge-01.kino.watch/fresh/index.m3u8
 https://edge-01.kino.watch/docu/index.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Ужастик
 http://edge-01.kino.watch/horror/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/1035.png",Travel+Adventure HD
-http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/1035.png",Travel+Adventure HD
-http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
@@ -54,12 +37,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://5.254.16.186/Khabar24/index.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img2/5830.png",Мир Белогорья
 http://5.254.16.186/MirBelogorya/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵",Россия 24
-http://5.254.16.186/Russia24/index.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/334.png",Москва 24
 http://5.254.16.186/Moskva24/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1 Cinemastan
-http://st.kglive.asia/hls/tv1cinema.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1
 http://st.kglive.asia/hls/tv1kg.m3u8
 #EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://limehd.tv/images/seo/svoetv_1.jpg",Своё ТВ
