@@ -613,52 +613,24 @@ http://live-1.otcnet.ru/mcm/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Премьер
-http://193.233.9.49/streams/media/Match_Premer/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Футбол 1
-https://s04.watcher.uz/21/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A37
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2
-https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A38
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
 https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" Матч Премьер HD
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-https://s04.watcher.uz/18/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A34
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2050.png" ,Матч! Игра HD
-https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A35
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2003.png" ,Матч! Арена
-https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A36
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2043.png",Матч! Планета
 https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2043.png",Матч! Планета
-https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2042.png",МАТЧ! СТРАНА
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2042.png",МАТЧ! СТРАНА
-https://livetv.mylifeisgood.ml/channels/matchstrana.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2530.png",СТАРТ HD
 https://livetv.mylifeisgood.ml/channels/startlive.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2364.png",Setanta Sports 1 HD
-https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2363.png",Setanta Sports 2 HD
-https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2052.png",Eurosport 1 HD
-https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2052.png",Eurosport 1
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/3735.png",Eurosport 2 HD
-https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://pl.ottglanz.tv/icon/6904.png",Eurosport 2
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2326.png",M-1 Global
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Motor Racing
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MySports 1 HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Turkmen Sport
@@ -667,10 +639,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2055.png",Viasat Sport HD
 https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2647.png",UzSport
-https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://tas-ix.tv/uploads/posts/2018-04/1524334316_d.jpg",Futbol TV
-https://s03.watcher.uz/74/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A74
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2285.png",Бокс ТВ
 https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2048.png",KHL
@@ -679,10 +647,6 @@ https://sc.id-tv.kz:443/KHL_36_37.m3u8
 https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Конный мир HD
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KOK Fights TV
-http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Players TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/1920x1080_5055600/chunklist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MAVTV GLOBAL
@@ -703,8 +667,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Unbeaten
-https://unbeaten-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="https://vhx.imgix.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg",MMA-TV.COM
