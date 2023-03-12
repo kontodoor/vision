@@ -188,6 +188,135 @@ https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1,НТМ HD
 #EXTGRP:Кино
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 ,НСТ
+#EXTGRP:Кино
+https://sc.id-tv.kz/NSTV.m3u8
+#EXTINF:-1 ,Дом Кино
+#EXTGRP:Кино
+https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+#EXTINF:-1 ,КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 ,Мужское Кино HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1 ,Киносвидание HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 ,КИНОСЕМЬЯ
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 ,Киномикс HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 ,РОДНОЕ КИНО
+#EXTGRP:Кино
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 ,Кинокомедия HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 ,Кинохит HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 ,Дорама HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:-1 ,FOX HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 ,Bollywood HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+
+
+
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
+#EXTINF:-1,Galaxy
+#EXTGRP:Познавательные
+http://146.158.0.56/Galaxy/mono.m3u8
+#EXTINF:-1 ,Global Star TV
+#EXTGRP:Познавательные
+http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
+#EXTINF:-1 ,Nano TV HD
+#EXTGRP:Познавательные
+http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nat Geo HD
+#EXTGRP:Познавательные
+http://217.107.219.67:8010/playlist.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,TLC
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 ,Travel & Adventure HD
+#EXTGRP:Познавательные
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1 ,Ocean TV
+#EXTGRP:Познавательные
+http://146.158.0.56/OceanTV/mono.m3u8
+#EXTINF:-1 ,TV BRICS
+#EXTGRP:Познавательные
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TV BRICS HD
+#EXTGRP:Познавательные
+http://origin5.mediacdn.ru/live/brics/index.m3u8
+#EXTINF:-1 ,TV BRICS HD
+#EXTGRP:Познавательные
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 ,TV BRICS HD (English)
+#EXTGRP:Познавательные
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TVM Channel
+#EXTGRP:Познавательные
+http://origin5.mediacdn.ru/live/tvm/index.m3u8
+#EXTINF:-1 ,Terra
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/480p.m3u8
+#EXTINF:-1 ,Terra HD
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:-1 ,Univer TV
+#EXTGRP:Познавательные
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 ,Univer TV HD
+#EXTGRP:Познавательные
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:-1 ,Viju Explore
+#EXTGRP:Познавательные
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viju Explore HD
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 ,Viju History
+#EXTGRP:Познавательные
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viju History HD
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 ,Viju Nature
+#EXTGRP:Познавательные
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viju Nature HD
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 ,Моя Планета
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
+#EXTINF:-1 ,History
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 ,Discovery Channel
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,HD Life
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/hdl_34_35.m3u8
 
 
 
