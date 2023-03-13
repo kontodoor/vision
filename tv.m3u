@@ -1,8 +1,51 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:08.03.2023
-https://drive.google.com/uc?export=download&id=1GURBIIwDEoJoUiZ-tPubo5q_x9p54E61
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:13.03.2023
+
+#EXTINF:-1 group-title="Эфирные россия" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",РЕН ТВ
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",ТНТ
+http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Россия К
+http://iptv.ktkru.ru:8006/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия" ,Россия 24
+http://iptv.ktkru.ru:8007/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Спас
+http://iptv.ktkru.ru:8012/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",ТВ3
+http://iptv.ktkru.ru:8015/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Пятница
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",МузТВ
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 group-title="Эфирные россия",Матч ТВ
+http://iptv.ktkru.ru:8003/index.m3u8
+
 
 
 #EXTINF:-1, Amedia 1
