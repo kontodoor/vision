@@ -1,7 +1,137 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
 
 
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:13.03.2023
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:14.03.2023
+
+
+#EXTINF:-1,Первый канал
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/Perv_SD.ts
+#EXTINF:-1,Первый канал HD
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/ORT_HD.ts
+#EXTINF:-1,Первый канал HD
+#EXTGRP:Эфирные
+http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1,Россия 1
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/Ros1.ts
+#EXTINF:-1,Рен ТВ
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
+#EXTINF:-1,Рен ТВ HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
+#EXTINF:-1,ТНТ HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1,НТВ
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/NTV.ts
+#EXTINF:-1,НТВ HD
+#EXTGRP:Эфирные
+http://ntv-hls-orig.cdnvideo.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Пятый канал
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:-1,РБК
+#EXTGRP:Эфирные
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1,РБК HD
+#EXTGRP:Эфирные
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1,Россия 24
+#EXTGRP:Эфирные
+http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Эфирные
+http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
+#EXTINF:-1,СТС HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1,СТС Love
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+#EXTINF:-1,ОТР
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/OTR.ts
+#EXTINF:-1,ТВЦ
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/TVC.ts
+#EXTINF:-1,ТВ3
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/TV3.ts
+#EXTINF:-1,ТВ3 HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+#EXTINF:-1,Спас
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/Spas.ts
+#EXTINF:-1,Домашний
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/Domash.ts
+#EXTINF:-1,Домашний HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1,Звезда
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/Zvezda.ts
+#EXTINF:-1,Звезда HD
+#EXTGRP:Эфирные
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,МИР
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/MIR.ts
+#EXTINF:-1,МИР HD
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,МИР24
+#EXTGRP:Эфирные
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+#EXTINF:-1,МИР24 HD
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
+#EXTINF:-1,360
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/360.ts
+#EXTINF:-1,360 Новости HD
+#EXTGRP:Эфирные
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1,360 HD
+#EXTGRP:Эфирные
+http://146.158.0.56/360HD/mono.m3u8
+#EXTINF:-1,360 Новости HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1,365
+#EXTGRP:Эфирные
+http://146.158.0.56/365dney/mono.m3u8
+#EXTINF:-1,Пятница!
+#EXTGRP:Эфирные
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Пятница! HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:-1,Муз ТВ
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#EXTINF:-1,Карусель
+#EXTGRP:Эфирные
+http://78.25.155.47:1309/channel/Karusel.ts
+#EXTINF:-1,Крым 24
+#EXTGRP:Эфирные
+https://mr2live.1tvcrimea.ru/switcher.m3u8
+#EXTINF:-1,Крым 24 HD
+#EXTGRP:Эфирные
+https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
+
+
 
 #EXTINF:-1 group-title="Эфирные россия" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
 http://iptv.ktkru.ru:8001/index.m3u8
