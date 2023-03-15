@@ -501,6 +501,229 @@ https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1,WORLD HD
 #EXTGRP:Познавательные
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,Просвещение
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Психология
+#EXTGRP:Познавательные
+http://78.25.155.47:1309/channel/Psih_21.ts
+#EXTINF:-1,Техно 24
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/Tehno24_34_35.m3u8
+
+
+#EXTINF:-1,Da Vinci
+#EXTGRP:Развлекательные
+https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/480p.m3u8
+#EXTINF:-1,E TV HD
+#EXTGRP:Развлекательные
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
+#EXTINF:-1,Fashion & Lifestyle HD
+#EXTGRP:Развлекательные
+http://193.33.240.8:8080/fashion_one_hd/index.m3u8
+#EXTINF:-1,Fashion Box
+#EXTGRP:Развлекательные
+http://146.158.0.56/FashionBox/mono.m3u8
+#EXTINF:-1,Galaxy
+#EXTGRP:Развлекательные
+http://146.158.0.56/Galaxy/mono.m3u8
+#EXTINF:-1,Global Star TV
+#EXTGRP:Развлекательные
+http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Global Star TV
+#EXTGRP:Развлекательные
+http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
+#EXTINF:-1,Leomax 24
+#EXTGRP:Развлекательные
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+#EXTINF:-1,Luxury HD
+#EXTGRP:Развлекательные
+http://streamer01.tv-nano.ru:8082/Luxury_HD_rec/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MOSOBR TV
+#EXTGRP:Развлекательные
+http://retc.educom.ru/mosobrtv/tv2/index.m3u8
+#EXTINF:-1,MOSOBR TV HD
+#EXTGRP:Развлекательные
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1,Maidan TV
+#EXTGRP:Развлекательные
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Maidan TV HD
+#EXTGRP:Развлекательные
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Shop&Show
+#EXTGRP:Развлекательные
+http://146.158.0.56/Shop&Show/index.m3u8
+#EXTINF:-1,Shopping Live
+#EXTGRP:Развлекательные
+http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:-1,Sochi 
+#EXTGRP:Развлекательные
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1,Sochi Live HD
+#EXTGRP:Развлекательные
+http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
+#EXTINF:-1,WFC TV HD
+#EXTGRP:Развлекательные
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1,WFC TV International HD
+#EXTGRP:Развлекательные
+http://live-3.otcnet.ru/wfcint/index.m3u8
+#EXTINF:-1,Авто 24
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/Avto24_36_37.m3u8
+#EXTINF:-1,Бобер
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:-1,Бокс ТВ
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/BoksTV_36_37.m3u8
+#EXTINF:-1,Большая Азия
+#EXTGRP:Развлекательные
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Большая Азия HD
+#EXTGRP:Развлекательные
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Диалоги о рыбалке
+#EXTGRP:Развлекательные
+https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
+#EXTINF:-1,Дикая Охота
+#EXTGRP:Развлекательные
+http://81.177.165.206:8010/playlist.m3u8
+#EXTINF:-1,Дикая Рыбалка
+#EXTGRP:Развлекательные
+http://217.107.219.67:8008/playlist.m3u8
+#EXTINF:-1,Дикий
+#EXTGRP:Развлекательные
+http://217.107.34.114:8007/playlist.m3u8
+#EXTINF:-1,Дикий
+#EXTGRP:Развлекательные
+http://138.201.67.145:8081/Dikiy/index.m3u8
+#EXTINF:-1,Домашние животные
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Dom_jiv.ts
+#EXTINF:-1,Драйв
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Drive.ts
+#EXTINF:-1,Еда Премиум (Международный)
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:-1,Живи
+#EXTGRP:Развлекательные
+http://138.201.67.145:8081/zhivi/index.m3u8
+#EXTINF:-1,ЗА ТВ
+#EXTGRP:Развлекательные
+https://s7lbbydibgn.a.trbcdn.net/live/SSJqBtZ6jBWeWZOJ.m3u8
+#EXTINF:-1,Загородная Жизнь
+#EXTGRP:Развлекательные
+http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
+#EXTINF:-1,Загородный
+#EXTGRP:Развлекательные
+http://217.107.34.114:8005/playlist.m3u8
+#EXTINF:-1,Загородный Int.
+#EXTGRP:Развлекательные
+https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
+#EXTINF:-1,Здоровое ТВ
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Zdorovoe.ts
+#EXTINF:-1,Зоопарк
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/zoo.ts
+#EXTINF:-1,История
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Istoria.ts
+#EXTINF:-1,Кухня ТВ
+#EXTGRP:Развлекательные
+http://146.158.0.56/KuhnyaTV/mono.m3u8
+#EXTINF:-1,Моторспорт ТВ
+#EXTGRP:Развлекательные
+http://146.158.0.56/Motosport/mono.m3u8
+#EXTINF:-1,Моя Планета
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Moya_pl.ts
+#EXTINF:-1,Моя Планета HD
+#EXTGRP:Развлекательные
+http://193.33.240.8:8080/planeta_hd/index.m3u8
+#EXTINF:-1,Мужской
+#EXTGRP:Развлекательные
+http://81.177.165.206:8009/playlist.m3u8
+#EXTINF:-1,Мужской
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:-1,Охота и Рыбалка
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Ohota_i_rib.ts
+#EXTINF:-1,Поехали!
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1,Приключения HD
+#EXTGRP:Развлекательные
+http://193.33.240.8:8080/teletravel_hd/index.m3u8
+#EXTINF:-1,Продвижение
+#EXTGRP:Развлекательные
+http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:-1,ТНТ4
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Телепутешествия
+#EXTGRP:Развлекательные
+http://193.33.240.8:80/Teleputeshestviya/video.m3u8
+#EXTINF:-1,Усадьба
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Usadba.ts
+#EXTINF:-1,Че!
+#EXTGRP:Развлекательные
+http://78.25.155.47:1309/channel/Che.ts
+#EXTINF:-1,Ю
+#EXTGRP:Развлекательные
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:-1,Ювелирия ТВ
+#EXTGRP:Развлекательные
+https://video.jewelleria.de/hlslive/test/site.m3u8
+#EXTINF:-1,Ювелирочка ТВ
+#EXTGRP:Развлекательные
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1,Ювелирочка ТВ
+#EXTGRP:Развлекательные
+http://okko-media.cdnvideo.ru/live/okko/uvelir/hls/playlist_sdhigh.m3u8
+#EXTINF:-1,555 Hunt Fishing TV
+#EXTGRP:Развлекательные
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1,555 Hunt Fishing TV HD
+#EXTGRP:Развлекательные
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+#EXTINF:-1,A21 Network
+#EXTGRP:Развлекательные
+https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1,A21 Network - NM TV
+#EXTGRP:Развлекательные
+https://tv.a21network.ru/stream/40650/index.m3u8
+#EXTINF:-1,Fresh Auto TV
+#EXTGRP:Развлекательные
+https://freshauto.shopstory.live/proxy?url=https://freshauto.shopstory.live/videos/480p/index.m3u8
+#EXTINF:-1,Fresh Auto TV HD
+#EXTGRP:Развлекательные
+https://freshauto.shopstory.live/proxy?url=https://freshauto.shopstory.live/videos/1080p/index.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Оружие
+#EXTGRP:Развлекательные
+https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Глазами Туриста
+#EXTGRP:Развлекательные
+https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
+#EXTGRP:Развлекательные
+https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Наша Сибирь HD
+#EXTGRP:Развлекательные
+https://livetv.mylifeisgood.ml/channels/nashasibirhd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3552.png",Удар
+#EXTGRP:Развлекательные
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
+
 
 
 #EXTINF:-1 ,Nickelodeon
@@ -572,289 +795,9 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 #EXTINF:-1,Da Vinchi Kids
 #EXTGRP:Детские
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
-
-
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/2268.png",CGTN Русский
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - ХИТ
-https://edge-01.kino.watch/hit/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Свежаки
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Документальные
-https://edge-01.kino.watch/docu/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Ужастик
-http://edge-01.kino.watch/horror/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/2748.png",FTV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
-http://5.254.16.186/Khabar24/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img2/5830.png",Мир Белогорья
-http://5.254.16.186/MirBelogorya/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/334.png",Москва 24
-http://5.254.16.186/Moskva24/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1
-http://st.kglive.asia/hls/tv1kg.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://dimgrad24.ru/images/new/favicon.png",Димград 24 HD
-http://live-1.otcnet.ru/dimgrad/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://assets.limehd.tv/uploads/channel/10479/thumb_5194bd2a640b74872fdd9eaeded82a97.png",Первый Псковский
-http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://ulpravda.ru/images/new/favicon.png",УЛПРАВДА ТВ
-http://live-1.otcnet.ru/pravdatv/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://www.lavaonline.tv/themes/custom/stm/lava/logo.png",LAVA HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img2/6036.png",ТВ Экстра HD
-http://194.190.78.91:8080/tvextra720b/index.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img2/6028.png",Новый Мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Big.Buck.Bunny.-.Bunny.Portrait.png/85px-Big.Buck.Bunny.-.Bunny.Portrait.png",Big Buck Bunny
-https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
-http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 group-title="TEST  ⓵",Cinema Classic TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
-https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
-http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://www.datocms-assets.com/14027/1631857142-afv-logo.png",AFV Family
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
-http://ntv-hls-orig.cdnvideo.ru/ntv1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
-http://ntv-hls-orig.cdnvideo.ru/ntv2/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
-http://ntv-hls-orig.cdnvideo.ru/ntv4/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
-http://ntv-hls-orig.cdnvideo.ru/ntv7/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
-http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
-http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/X2Cqx73/SGN-04-24-2022-1650746943539.png",BACKUS TV HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/nj7Bdbs/SGN-04-24-2022-1650746279377.png",BACKUSTV Страшное HD
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Шаян HD
-http://83.222.205.65:8080/shayan/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/6027.png",Кубань 24
-http://83.222.205.65:8080/cuban24/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2761.png",Калейдоскоп ТВ
-http://83.222.205.65:8080/kaleidoskop/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://dimgrad24.ru/images/new/dimlogo-min.png",ДимГрад24 ТВ
-http://live-1.otcnet.ru/dimgrad/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Globalstar HD
-http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png",4 канал
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10630/logo_128_1652790001.png",Новый век (Тамбов)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Репортер 73
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="OTT Pink",Інтер+ HD
-http://portal.ott.pink/watch/7508/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/interua.png",Інтер
-http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/odin_plus_odin.png",1+1
-http://portal.ott.pink/watch/7313/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/dva_plus_dva.png",2+2
-http://portal.ott.pink/watch/7314/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/k2tv.png",К2
-http://portal.ott.pink/watch/124/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/k1tv.png",К1
-http://portal.ott.pink/watch/125/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/ictv_hd_ua.png",ICTV HD
-http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/stbtvhd.png",СТБ HD
-http://portal.ott.pink/watch/30/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kvartaltvch.png",Квартал ТВ
-http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img/2227.png",ТРК Київ
-http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/karavanua.png",КАРАВАН-ТВ UA
-http://portal.ott.pink/watch/7382/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/trofeyhd.png",Трофей
-http://portal.ott.pink/watch/194/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kanal24hd.png",Канал 24 HD
-http://portal.ott.pink/watch/324/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/espreso_hd_ua.png",Еспресо HD
-http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img/2242.png" ,World Fashion Channel
-http://portal.ott.pink/watch/7535/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink", Nickelodeon HD
-http://portal.ott.pink/watch/7511/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/773-zakon-tv.png" ,Закон-ТВ HD
-http://portal.ott.pink/watch/7506/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/772-mason-tv.png", Масон-ТВ HD
-http://portal.ott.pink/watch/7505/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink",FREEДОМ - UATV Channel
-http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/euronewshd.png",Euronews Россия
-http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/belsat.png",Белсат HD
-http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kazakhtvhd.png",Kazakh TV
-http://portal.ott.pink/watch/320/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/nastoyastsheevremyatv.png",Настоящее время HD
-http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/dozhd-rain.png",Дождь
-http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/chernomprom.png",Чернiвецький Промiнь
-http://portal.ott.pink/watch/131/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/uniantv.png",УНІАН
-http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/uapershiykanhd.png",Суспільне Перший HD
-http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/sontse.png",Сонце
-http://portal.ott.pink/watch/237/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink",Рада
-http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/pryamhd.png",Прямий HD
-http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/obozrevatel_hd_ua.png",Обозреватель HD
-http://portal.ott.pink/watch/134/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink",Голос Америки VOA HD
-http://portal.ott.pink/watch/7484/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/bigudi_ua.png",Бiгудi
-http://portal.ott.pink/watch/328/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink",Апостроф TV
-http://portal.ott.pink/watch/7485/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/avers_ua.png",Аверс
-http://portal.ott.pink/watch/356/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/tva_chernivtsi_ua.png",TVA Чернівці
-http://portal.ott.pink/watch/117/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/medianf.png",MEDIA Інформ HD
-http://portal.ott.pink/watch/115/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink",D1
-http://portal.ott.pink/watch/7494/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/atr_hd_ua.png",ATR Крым HD
-http://portal.ott.pink/watch/189/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/7_channel_hd_ua.png",7 канал
-http://portal.ott.pink/watch/137/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/5_channel_hd_ua.png",5 канал UA
-http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/4kanalua.png",4 канал HD UA
-http://portal.ott.pink/watch/6987/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/36-6-tv.png",36.6 TV
-http://portal.ott.pink/watch/6969/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/187-11-kanal-dnepr.png",11 Канал Дніпро HD
-http://portal.ott.pink/watch/7419/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/566-pervyy-gorodskoy-odessa.png",1 Городской Одесса HD
-http://portal.ott.pink/watch/7408/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/pervygorkrrogtv.png",1 Городской Кривой Рог HD
-http://portal.ott.pink/watch/121/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/thevoicetv.png",The Voice Bulgaria HD
-http://portal.ott.pink/watch/7007/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashmusic.png",Smash Music HD
-http://portal.ott.pink/watch/7370/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashouserock.png",Smash House of Rock HD
-http://portal.ott.pink/watch/317/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashcountry.png",Smash Country HD
-http://portal.ott.pink/watch/6991/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img2/6011.png",INRATING TV HD
-http://portal.ott.pink/watch/7422/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/oneby.png",Первый музыкальный
-http://portal.ott.pink/watch/7006/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-
-
-
-
-#EXTINF:-1 group-title="Байкал-Телеком",TV1000 Русское кино
-http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Студия Радио MCM - Иркутск HD
-http://194.143.148.28:8080/MCM/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",RT Doc
-http://194.143.148.28:8080/RTD_HD/mpegts
-#EXTINF:-1,TV1000 Русское кино
-http://194.143.148.28:8080/TV1000RuKino/index.m3u8
-#EXTINF:-1 group-title="Байкал-Телеком",MCM TOP HD
-http://194.143.148.28:8080/MCM/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Тномер
-http://194.143.148.28:8080/Tnomer/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Аист ТВ
-http://194.143.148.28:8080/Aist/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",НТС
-http://194.143.148.28:8080/NTS/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",WEACOM.TV
-http://194.143.148.28:8080/WEACOM.TV/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Матч ТВ HD
-http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 group-title="Байкал-Телеком",Viasat Sport HD
-http://194.143.148.28:8080/Viasat_Sport/mpegts
-
-
-
-
-#EXTINF:-1 group-title="Крымтелеком" tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
-http://iptv.ktkru.ru:8001/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком" tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
-http://iptv.ktkru.ru:8002/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",РЕН ТВ
-http://iptv.ktkru.ru:8011/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",ТНТ
-http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Пятый канал
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Россия К
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком" ,Россия 24
-http://iptv.ktkru.ru:8007/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
-http://iptv.ktkru.ru:8025/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Карусель
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",ОТР
-http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",ТВ Центр
-http://iptv.ktkru.ru:8010/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Спас
-http://iptv.ktkru.ru:8012/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",СТС
-http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Домашний
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",ТВ3
-http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Пятница
-http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Звезда
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Мир
-http://iptv.ktkru.ru:8018/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",МузТВ
-http://iptv.ktkru.ru:8020/index.m3u8
-#EXTINF:-1 group-title="Крымтелеком",Матч ТВ
-http://iptv.ktkru.ru:8003/index.m3u8
+#EXTINF:-1,Gulli Girl
+#EXTGRP:Детские
+http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 
 
 
@@ -1196,6 +1139,12 @@ https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://pl.ottglanz.tv/icon/6904.png",Eurosport 2
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Viju+ Sport
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Viju+ Sport HD
+http://tv.streams.baikal-telecom.net/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Viju+ Sport HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2326.png",M-1 Global
@@ -1252,6 +1201,252 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",ABU DHABI SPORT 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт Триумф
+http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/480p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт Триумф HD
+http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
+
+
+
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/2268.png",CGTN Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - ХИТ
+https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Свежаки
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Документальные
+https://edge-01.kino.watch/docu/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://kino.watch/img/logo.png",Kino Watch TV - Ужастик
+http://edge-01.kino.watch/horror/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/2748.png",FTV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
+http://5.254.16.186/Khabar24/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img2/5830.png",Мир Белогорья
+http://5.254.16.186/MirBelogorya/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img/334.png",Москва 24
+http://5.254.16.186/Moskva24/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1
+http://st.kglive.asia/hls/tv1kg.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://dimgrad24.ru/images/new/favicon.png",Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://assets.limehd.tv/uploads/channel/10479/thumb_5194bd2a640b74872fdd9eaeded82a97.png",Первый Псковский
+http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://ulpravda.ru/images/new/favicon.png",УЛПРАВДА ТВ
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://www.lavaonline.tv/themes/custom/stm/lava/logo.png",LAVA HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img2/6036.png",ТВ Экстра HD
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="http://epg.it999.ru/img2/6028.png",Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Big.Buck.Bunny.-.Bunny.Portrait.png/85px-Big.Buck.Bunny.-.Bunny.Portrait.png",Big Buck Bunny
+https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="TEST  ⓵",Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
+http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="TEST  ⓵" tvg-logo="https://www.datocms-assets.com/14027/1631857142-afv-logo.png",AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
+http://ntv-hls-orig.cdnvideo.ru/ntv1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+http://ntv-hls-orig.cdnvideo.ru/ntv2/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+http://ntv-hls-orig.cdnvideo.ru/ntv4/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+http://ntv-hls-orig.cdnvideo.ru/ntv7/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/X2Cqx73/SGN-04-24-2022-1650746943539.png",BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.ibb.co/nj7Bdbs/SGN-04-24-2022-1650746279377.png",BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Шаян HD
+http://83.222.205.65:8080/shayan/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/6027.png",Кубань 24
+http://83.222.205.65:8080/cuban24/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img/2761.png",Калейдоскоп ТВ
+http://83.222.205.65:8080/kaleidoskop/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://dimgrad24.ru/images/new/dimlogo-min.png",ДимГрад24 ТВ
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Globalstar HD
+http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10630/logo_128_1652790001.png",Новый век (Тамбов)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Репортер 73
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="OTT Pink",Інтер+ HD
+http://portal.ott.pink/watch/7508/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/interua.png",Інтер
+http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/odin_plus_odin.png",1+1
+http://portal.ott.pink/watch/7313/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/dva_plus_dva.png",2+2
+http://portal.ott.pink/watch/7314/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/k2tv.png",К2
+http://portal.ott.pink/watch/124/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/k1tv.png",К1
+http://portal.ott.pink/watch/125/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/ictv_hd_ua.png",ICTV HD
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/stbtvhd.png",СТБ HD
+http://portal.ott.pink/watch/30/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kvartaltvch.png",Квартал ТВ
+http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img/2227.png",ТРК Київ
+http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/karavanua.png",КАРАВАН-ТВ UA
+http://portal.ott.pink/watch/7382/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/trofeyhd.png",Трофей
+http://portal.ott.pink/watch/194/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kanal24hd.png",Канал 24 HD
+http://portal.ott.pink/watch/324/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/espreso_hd_ua.png",Еспресо HD
+http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img/2242.png" ,World Fashion Channel
+http://portal.ott.pink/watch/7535/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink", Nickelodeon HD
+http://portal.ott.pink/watch/7511/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/773-zakon-tv.png" ,Закон-ТВ HD
+http://portal.ott.pink/watch/7506/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/772-mason-tv.png", Масон-ТВ HD
+http://portal.ott.pink/watch/7505/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink",FREEДОМ - UATV Channel
+http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/euronewshd.png",Euronews Россия
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/belsat.png",Белсат HD
+http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kazakhtvhd.png",Kazakh TV
+http://portal.ott.pink/watch/320/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/nastoyastsheevremyatv.png",Настоящее время HD
+http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/dozhd-rain.png",Дождь
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/chernomprom.png",Чернiвецький Промiнь
+http://portal.ott.pink/watch/131/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/uniantv.png",УНІАН
+http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/uapershiykanhd.png",Суспільне Перший HD
+http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/sontse.png",Сонце
+http://portal.ott.pink/watch/237/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink",Рада
+http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/pryamhd.png",Прямий HD
+http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/obozrevatel_hd_ua.png",Обозреватель HD
+http://portal.ott.pink/watch/134/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink",Голос Америки VOA HD
+http://portal.ott.pink/watch/7484/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/bigudi_ua.png",Бiгудi
+http://portal.ott.pink/watch/328/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink",Апостроф TV
+http://portal.ott.pink/watch/7485/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/avers_ua.png",Аверс
+http://portal.ott.pink/watch/356/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/tva_chernivtsi_ua.png",TVA Чернівці
+http://portal.ott.pink/watch/117/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/medianf.png",MEDIA Інформ HD
+http://portal.ott.pink/watch/115/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink",D1
+http://portal.ott.pink/watch/7494/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/atr_hd_ua.png",ATR Крым HD
+http://portal.ott.pink/watch/189/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/7_channel_hd_ua.png",7 канал
+http://portal.ott.pink/watch/137/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/5_channel_hd_ua.png",5 канал UA
+http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/4kanalua.png",4 канал HD UA
+http://portal.ott.pink/watch/6987/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/36-6-tv.png",36.6 TV
+http://portal.ott.pink/watch/6969/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/187-11-kanal-dnepr.png",11 Канал Дніпро HD
+http://portal.ott.pink/watch/7419/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/566-pervyy-gorodskoy-odessa.png",1 Городской Одесса HD
+http://portal.ott.pink/watch/7408/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/pervygorkrrogtv.png",1 Городской Кривой Рог HD
+http://portal.ott.pink/watch/121/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/thevoicetv.png",The Voice Bulgaria HD
+http://portal.ott.pink/watch/7007/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashmusic.png",Smash Music HD
+http://portal.ott.pink/watch/7370/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashouserock.png",Smash House of Rock HD
+http://portal.ott.pink/watch/317/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashcountry.png",Smash Country HD
+http://portal.ott.pink/watch/6991/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img2/6011.png",INRATING TV HD
+http://portal.ott.pink/watch/7422/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/oneby.png",Первый музыкальный
+http://portal.ott.pink/watch/7006/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+
+
+
+
+#EXTINF:-1 group-title="Байкал-Телеком",TV1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",Студия Радио MCM - Иркутск HD
+http://194.143.148.28:8080/MCM/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",RT Doc
+http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1,TV1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/index.m3u8
+#EXTINF:-1 group-title="Байкал-Телеком",MCM TOP HD
+http://194.143.148.28:8080/MCM/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",Тномер
+http://194.143.148.28:8080/Tnomer/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",Аист ТВ
+http://194.143.148.28:8080/Aist/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",НТС
+http://194.143.148.28:8080/NTS/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",WEACOM.TV
+http://194.143.148.28:8080/WEACOM.TV/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",Матч ТВ HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="Байкал-Телеком",Viasat Sport HD
+http://194.143.148.28:8080/Viasat_Sport/mpegts
+
+
+
+
 
 
 
