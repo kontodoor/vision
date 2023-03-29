@@ -6,16 +6,13 @@
 
 #EXTINF:-1,Первый канал
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/Perv_SD.ts
-#EXTINF:-1,Первый канал HD
-#EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/ORT_HD.ts
+http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
 #EXTINF:-1,Первый канал HD
 #EXTGRP:Эфирные
 http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1,Россия 1
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/Ros1.ts
+http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
@@ -30,7 +27,7 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1,НТВ
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/NTV.ts
+http://213.172.73.170:8081/nimble_live/1100__NTV/playlist.m3u8
 #EXTINF:-1,НТВ HD
 #EXTGRP:Эфирные
 http://ntv-hls-orig.cdnvideo.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
@@ -63,31 +60,31 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 http://78.25.155.47:1309/channel/OTR.ts
 #EXTINF:-1,ТВЦ
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/TVC.ts
+http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
 #EXTINF:-1,ТВ3
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/TV3.ts
+http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
 #EXTINF:-1,ТВ3 HD
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1,Спас
+#EXTINF:-1,Че
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/Spas.ts
+http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
 #EXTINF:-1,Домашний
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/Domash.ts
+http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
 #EXTINF:-1,Домашний HD
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 #EXTINF:-1,Звезда
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/Zvezda.ts
+http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
 #EXTINF:-1,Звезда HD
 #EXTGRP:Эфирные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,МИР
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/MIR.ts
+http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
 #EXTINF:-1,МИР HD
 #EXTGRP:Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -99,7 +96,7 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
 #EXTINF:-1,360
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/360.ts
+http://213.172.73.170:8081/nimble_live/1133__360_turk/playlist.m3u8
 #EXTINF:-1,360 Новости HD
 #EXTGRP:Эфирные
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
@@ -123,7 +120,7 @@ https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 #EXTINF:-1,Карусель
 #EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/Karusel.ts
+http://213.172.73.170:8081/nimble_live/1011__Karusel/playlist.m3u8
 #EXTINF:-1,Крым 24
 #EXTGRP:Эфирные
 https://mr2live.1tvcrimea.ru/switcher.m3u8
@@ -1080,6 +1077,16 @@ http://live-1.otcnet.ru/mcm/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Футбол 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Футбол 1
+http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
@@ -1116,8 +1123,12 @@ https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
 https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2048.png",KHL
 https://sc.id-tv.kz:443/KHL_36_37.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2048.png",KHL
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://pl.ottglanz.tv/icon/9596.png",KHL Prime
 https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://pl.ottglanz.tv/icon/9596.png",KHL Prime
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Конный мир HD
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Canal Motor
