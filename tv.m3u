@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:-1 group-title="ИНФО",Обновление:29.03.2023
-
-
 #EXTINF:-1,Первый канал
 #EXTGRP:Эфирные
 http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
@@ -366,6 +363,18 @@ https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/480p.m3u8
 #EXTINF:-1 ,Феникс плюс кино HD
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+#EXTINF:-1,Видеокассета
+#EXTGRP:Кино
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,Детское кино International
+#EXTGRP:Кино
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1,Кино 1 International
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/07022021/banners/39005-60201aeea4e59.jpg",КИНОКЛУБ
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/39005/index.m3u8
 
 
 #EXTINF:-1,Extreme Sports
@@ -1062,6 +1071,12 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶",MCM Top
 http://live-1.otcnet.ru/mcm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶",Музыка 1 International
+https://autopilot.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶",Музыка 2 International
+https://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/9MS3Z3bN/Opera-2022-06-20-232550-catcast-tv.png",TRANCE IS STAR TV
+http://tis.catcast.tv/content/391/index.m3u8
 
 
 
@@ -1270,50 +1285,24 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_reporter73/hls/1920x1080@4504/pl
 
 
 
-#EXTINF:-1 group-title="OTT Pink",Інтер+ HD
-http://portal.ott.pink/watch/7508/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/interua.png",Інтер
 http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/odin_plus_odin.png",1+1
-http://portal.ott.pink/watch/7313/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/dva_plus_dva.png",2+2
-http://portal.ott.pink/watch/7314/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/k2tv.png",К2
-http://portal.ott.pink/watch/124/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/k1tv.png",К1
-http://portal.ott.pink/watch/125/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/ictv_hd_ua.png",ICTV HD
 http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/stbtvhd.png",СТБ HD
-http://portal.ott.pink/watch/30/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kvartaltvch.png",Квартал ТВ
-http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img/2227.png",ТРК Київ
 http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/karavanua.png",КАРАВАН-ТВ UA
-http://portal.ott.pink/watch/7382/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/trofeyhd.png",Трофей
-http://portal.ott.pink/watch/194/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kanal24hd.png",Канал 24 HD
 http://portal.ott.pink/watch/324/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/espreso_hd_ua.png",Еспресо HD
 http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img/2242.png" ,World Fashion Channel
-http://portal.ott.pink/watch/7535/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink", Nickelodeon HD
-http://portal.ott.pink/watch/7511/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/773-zakon-tv.png" ,Закон-ТВ HD
 http://portal.ott.pink/watch/7506/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/772-mason-tv.png", Масон-ТВ HD
-http://portal.ott.pink/watch/7505/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink",FREEДОМ - UATV Channel
 http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/euronewshd.png",Euronews Россия
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/belsat.png",Белсат HD
 http://portal.ott.pink/watch/149/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kazakhtvhd.png",Kazakh TV
-http://portal.ott.pink/watch/320/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/nastoyastsheevremyatv.png",Настоящее время HD
 http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/dozhd-rain.png",Дождь
@@ -1324,57 +1313,32 @@ http://portal.ott.pink/watch/131/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B35
 http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/uapershiykanhd.png",Суспільне Перший HD
 http://portal.ott.pink/watch/6972/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/sontse.png",Сонце
-http://portal.ott.pink/watch/237/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink",Рада
 http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/pryamhd.png",Прямий HD
 http://portal.ott.pink/watch/14/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/obozrevatel_hd_ua.png",Обозреватель HD
-http://portal.ott.pink/watch/134/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink",Голос Америки VOA HD
 http://portal.ott.pink/watch/7484/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/bigudi_ua.png",Бiгудi
-http://portal.ott.pink/watch/328/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink",Апостроф TV
 http://portal.ott.pink/watch/7485/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/avers_ua.png",Аверс
 http://portal.ott.pink/watch/356/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/tva_chernivtsi_ua.png",TVA Чернівці
 http://portal.ott.pink/watch/117/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/medianf.png",MEDIA Інформ HD
-http://portal.ott.pink/watch/115/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink",D1
 http://portal.ott.pink/watch/7494/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/atr_hd_ua.png",ATR Крым HD
 http://portal.ott.pink/watch/189/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/7_channel_hd_ua.png",7 канал
-http://portal.ott.pink/watch/137/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/5_channel_hd_ua.png",5 канал UA
 http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/4kanalua.png",4 канал HD UA
 http://portal.ott.pink/watch/6987/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/36-6-tv.png",36.6 TV
-http://portal.ott.pink/watch/6969/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/187-11-kanal-dnepr.png",11 Канал Дніпро HD
 http://portal.ott.pink/watch/7419/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/566-pervyy-gorodskoy-odessa.png",1 Городской Одесса HD
 http://portal.ott.pink/watch/7408/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/pervygorkrrogtv.png",1 Городской Кривой Рог HD
 http://portal.ott.pink/watch/121/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/thevoicetv.png",The Voice Bulgaria HD
-http://portal.ott.pink/watch/7007/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashmusic.png",Smash Music HD
-http://portal.ott.pink/watch/7370/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashouserock.png",Smash House of Rock HD
-http://portal.ott.pink/watch/317/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/smashcountry.png",Smash Country HD
-http://portal.ott.pink/watch/6991/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img2/6011.png",INRATING TV HD
-http://portal.ott.pink/watch/7422/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/oneby.png",Первый музыкальный
-http://portal.ott.pink/watch/7006/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-
 
 
 
@@ -2017,219 +1981,6 @@ http://94.19.0.218:81/udp/239.239.3.38:5239
 http://94.19.0.218:81/udp/239.239.3.34:5239
 
 
-
-
-
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Первый канал HD
-http://78.25.155.47:1309/channel/ORT_HD.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Первый канал
-http://78.25.155.47:1309/channel/Perv_SD.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Россия HD
-http://78.25.155.47:1309/channel/Ros_HD.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОССИЯ 1
-http://78.25.155.47:1309/channel/Ros1.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",НТВ
-http://78.25.155.47:1309/channel/NTV.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",ТНТ
-http://78.25.155.47:1309/channel/TNT.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",РЕН ТВ
-http://78.25.155.47:1309/channel/REN.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОССИЯ 24
-http://78.25.155.47:1309/channel/Ros_24.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОССИЯ К
-http://78.25.155.47:1309/channel/Ros_K.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Моя планета
-http://78.25.155.47:1309/channel/Moya_pl.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Охота и рыбалка
-http://78.25.155.47:1309/channel/Ohota_i_rib.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",История
-http://78.25.155.47:1309/channel/Istoria.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Наука
-http://78.25.155.47:1309/channel/Nauka.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Драйв
-http://78.25.155.47:1309/channel/Drive.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/45/02/-channel!qds.png",TERRA
-http://78.25.155.47:1309/channel/Nat_geo.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/45/02/-channel!qds.png",TERRA
-http://78.25.155.47:1309/channel/Nat_geo_HD.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Звезда
-http://78.25.155.47:1309/channel/Zvezda.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Сарафан
-http://78.25.155.47:1309/channel/Sarafan.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Усадьба
-http://78.25.155.47:1309/channel/Usadba.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",РОДНОЕ КИНО
-http://78.25.155.47:1309/channel/Nashe_kino.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",НАШЕ НОВОЕ КИНО
-http://78.25.155.47:1309/channel/Kinohit.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",ИНДИЙСКОЕ КИНО
-http://78.25.155.47:1309/channel/India.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",КИНОМИКС
-http://78.25.155.47:1309/channel/Kino_plus.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",КИНОСЕРИЯ
-http://78.25.155.47:1309/channel/Mnogoser.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",СТС
-http://78.25.155.47:1309/channel/STS.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",2x2
-http://78.25.155.47:1309/channel/2x2.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Ретро
-http://78.25.155.47:1309/channel/Retro.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",ТВ3
-http://78.25.155.47:1309/channel/TV3.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",TV XXI
-http://78.25.155.47:1309/channel/TV-21.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",ТВЦ
-http://78.25.155.47:1309/channel/TVC.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",360°
-http://78.25.155.47:1309/channel/360.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/44/79/-channel!2a4.png",КИНЕКО
-http://78.25.155.47:1309/channel/FOX.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)" tvg-logo="https://fast.ntvplus.tv/files/image/75/44/93/-channel!1zp.png",САПФИР
-http://78.25.155.47:1309/channel/FOX_life.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Телекафе
-http://78.25.155.47:1309/channel/Telecafe.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Ю
-http://78.25.155.47:1309/channel/U.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",ОТР
-http://78.25.155.47:1309/channel/OTR.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Че
-http://78.25.155.47:1309/channel/Che.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",РБК
-http://78.25.155.47:1309/channel/RBK.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Спас
-http://78.25.155.47:1309/channel/Spas.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Зоопарк
-http://78.25.155.47:1309/channel/zoo.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Shop 24
-http://78.25.155.47:1309/channel/Stil.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",БелРос
-http://78.25.155.47:1309/channel/TRO.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Вопросы и ответы
-http://78.25.155.47:1309/channel/Vopr_i_otv.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Дом Кино
-http://78.25.155.47:1309/channel/DOM_kino.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Домашние животные
-http://78.25.155.47:1309/channel/Dom_jiv.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Домашний
-http://78.25.155.47:1309/channel/Domash.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Здоровое ТВ
-http://78.25.155.47:1309/channel/Zdorovoe.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Иллюзион +
-http://78.25.155.47:1309/channel/Illuz_plus.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",KTV
-http://78.25.155.47:1309/channel/Kolomna.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Китай ТВ HD
-http://78.25.155.47:1309/channel/ktv.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",МИР
-http://78.25.155.47:1309/channel/MIR.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Психология 21
-http://78.25.155.47:1309/channel/Psih_21.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Пятница
-http://78.25.155.47:1309/channel/Piatnica.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",5 КАНАЛ
-http://78.25.155.47:1309/channel/ch5.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Русский детектив
-http://78.25.155.47:1309/channel/rus_d.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Русский Иллюзион
-http://78.25.155.47:1309/channel/Rus_illuz.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Русский Роман
-http://78.25.155.47:1309/channel/Rus_rom.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Феникс+Кино
-http://78.25.155.47:1309/channel/Feniks.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Шансон ТВ
-http://78.25.155.47:1309/channel/Shanson.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Европа Плюс ТВ
-http://78.25.155.47:1309/channel/Evropa_plus.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Мульт
-http://78.25.155.47:1309/channel/Mult.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",КАРУСЕЛЬ
-http://78.25.155.47:1309/channel/Karusel.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Мама
-http://78.25.155.47:1309/channel/Mama.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Disney
-http://78.25.155.47:1309/channel/Disney.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч ТВ
-http://78.25.155.47:1309/channel/Match.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч! Боец
-http://78.25.155.47:1309/channel/Boec.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч! Игра
-http://78.25.155.47:1309/channel/Sport_2.ts
-#EXTINF:-1 group-title="Коломна-Связь (VPN)",Матч! Страна
-http://78.25.155.47:1309/channel/Sport_plus.ts
-
-
-
-
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал
-http://46.174.83.66/1/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
-http://46.174.83.66/Russia1/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",НТВ
-http://46.174.83.66/NTV/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",ТНТ
-http://46.174.83.66/TNT/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",ТНТ4
-http://46.174.83.66/TNT4/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",РЕН ТВ
-http://46.174.83.66/RenTV/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",HD Life
-http://46.174.83.66/HDL/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",Морской HD
-http://46.174.83.66/Morskoi_HD/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",5 канал
-http://46.174.83.66/5Kanal/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",ТВ3
-http://46.174.83.66/TV3/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",ОТР
-http://46.174.83.66/OTR/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",ТВ Центр
-http://46.174.83.66/TVCentr/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",ДОМАШНИЙ
-http://46.174.83.66/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/1003.png",Пятница!
-http://46.174.83.66/Pytnica/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/2288.png",Суббота
-http://46.174.83.66/Subbota/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/2423.png",365 дней ТВ
-http://46.174.83.66/365/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",2x2
-http://46.174.83.66/2x2/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/1757.png",О!
-http://46.174.83.66/O/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",Спас
-http://46.174.83.66/Spas/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",Ю
-http://46.174.83.66/U/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",Драйв
-http://46.174.83.66/Drive/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",Звезда
-http://46.174.83.66/Zvezda/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/798.png",ИНДИЙСКОЕ КИНО
-http://46.174.83.66/Indiiskoe_kino/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/821.png",Кинокомедия
-http://46.174.83.66/Kinokomedia/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",Карусель
-http://46.174.83.66/Karusel/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/66.png",Уникум
-http://46.174.83.66/Unikum/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="https://dvb.by/sources/logos/1249s.png",Gulli Girl
-http://46.174.83.66/Gulli_Girl/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",МузТВ
-http://46.174.83.66/MuzTV/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",RU.TV
-http://46.174.83.66/RU_TV/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",Bridge TV
-http://46.174.83.66/BridgeTV/index.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",СТС
-http://46.174.83.66/CTC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)",ОТР
-http://46.174.83.66/OTR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="НКТВ (VPN)" tvg-logo="http://epg.it999.ru/img/4629.png",Мир Баскетбола
-http://46.174.83.66/MirBasketbola/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" tvg-logo="http://epg.cdntv.online/img/394.png",Bridge TV Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
 #EXTINF:-1 group-title="Яндекс (VPN 🇷🇺)" tvg-logo="http://epg.it999.ru/img/151.png",Bridge TV
@@ -2632,43 +2383,3 @@ https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
 #EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
-https://autopilot.catcast.tv/content/40504/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/4V7HVLY/SGN-05-14-2022-1652503170477.png",Классика индийского кино
-https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/HFyqcWT/SGN-05-14-2022-1652503706146.png",Современное индийское кино
-https://autopilot.catcast.tv/content/41458/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/11092020/banners/37925-5f5ba6091be23.png",Видеокассета
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/QKjQf2h/SGN-12-12-2021-1639334452666.png",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/xXmqdsQ/SGN-09-24-2021-1632504938208.png",Кино 1 International
-https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Музыка 1 International
-https://autopilot.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Музыка 2 International
-https://autopilot.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Детское кино International
-https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Fentazy
-http://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.postimg.cc/9MS3Z3bN/Opera-2022-06-20-232550-catcast-tv.png",TRANCE IS STAR TV
-http://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/pK8jMRJ/SGN-03-27-2022-1648390522144.png",IPTVPLAY УЖАСТИК
-https://v2.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/2Wm9Y4C/SGN-03-27-2022-1648390945033.png",IPTVPLAY МультСказки
-https://v2.catcast.tv/content/38850/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/3RZMf64/SGN-03-14-2022-1647205197494.png",IPTVPLAY ПАМЯТЬ
-https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/44xB7LS/SGN-03-27-2022-1648390005995.png",IPTVPLAY ФАНТАСТИКА
-https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Мульт
-https://autopilot.catcast.tv/content/38850/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/07022021/banners/39005-60201aeea4e59.jpg",КИНОКЛУБ
-https://autopilot.catcast.tv/content/39005/index.m3u8
