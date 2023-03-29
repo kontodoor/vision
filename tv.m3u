@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
 
-
-#EXTINF:-1 group-title="🔺 INFO 🔺",Обновление:29.03.2023
+#EXTINF:-1 group-title="INFO",Обновление:29.03.2023
 
 
 #EXTINF:-1,Первый канал
@@ -55,9 +54,6 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1,СТС Love
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
-#EXTINF:-1,ОТР
-#EXTGRP:Эфирные
-http://78.25.155.47:1309/channel/OTR.ts
 #EXTINF:-1,ТВЦ
 #EXTGRP:Эфирные
 http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
@@ -88,9 +84,6 @@ http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
 #EXTINF:-1,МИР HD
 #EXTGRP:Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,МИР24
-#EXTGRP:Эфирные
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
 #EXTINF:-1,МИР24 HD
 #EXTGRP:Эфирные
 http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
