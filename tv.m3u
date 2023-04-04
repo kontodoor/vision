@@ -377,6 +377,41 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 https://autopilot.catcast.tv/content/39005/index.m3u8
 
 
+
+
+#EXTINF:-1,Discovery Channel HD
+#EXTGRP:Познавательные
+http://88.216.83.245/discovery/index.m3u8
+#EXTINF:-1,Travel Channel HD
+#EXTGRP:Познавательные
+http://88.216.83.245/travel/index.m3u8
+#EXTINF:-1,Discovery Science
+#EXTGRP:Познавательные
+http://213.172.73.170:8081/nimble_live/1042__Discovery_Science/playlist.m3u8
+#EXTINF:-1,TLC HD
+#EXTGRP:Познавательные
+http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd.m3u8
+#EXTINF:-1,H2
+#EXTGRP:Познавательные
+http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
+#EXTINF:-1,National Geographic
+#EXTGRP:Познавательные
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Познавательные
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Animal Planet HD
+#EXTGRP:Познавательные
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1,Investigation Discovery HD
+#EXTGRP:Познавательные
+http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+#EXTINF:-1,Discovery Channel
+#EXTGRP:Познавательные
+http://streamer1.ruslanatv.ru/russia/discovery_sd_new_2023/playlist.m3u8
+#EXTINF:-1,History HD
+#EXTGRP:Познавательные
+http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
 #EXTINF:-1,Extreme Sports
 #EXTGRP:Познавательные
 https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
@@ -511,6 +546,9 @@ http://78.25.155.47:1309/channel/Psih_21.ts
 https://sc.id-tv.kz/Tehno24_34_35.m3u8
 
 
+#EXTINF:-1,DTX
+#EXTGRP:Развлекательные
+http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
 #EXTINF:-1,Da Vinci
 #EXTGRP:Развлекательные
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/480p.m3u8
