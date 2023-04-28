@@ -346,9 +346,6 @@ http://88.216.83.245/discovery/index.m3u8
 #EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
 http://88.216.83.245/travel/index.m3u8
-#EXTINF:-1,Discovery Science
-#EXTGRP:Познавательные
-http://213.172.73.170:8081/nimble_live/1042__Discovery_Science/playlist.m3u8
 #EXTINF:-1,TLC HD
 #EXTGRP:Познавательные
 http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd.m3u8
@@ -507,9 +504,6 @@ http://78.25.155.47:1309/channel/Psih_21.ts
 https://sc.id-tv.kz/Tehno24_34_35.m3u8
 
 
-#EXTINF:-1,DTX
-#EXTGRP:Развлекательные
-http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
 #EXTINF:-1,Da Vinci
 #EXTGRP:Развлекательные
 https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/480p.m3u8
@@ -1086,12 +1080,8 @@ http://tis.catcast.tv/content/391/index.m3u8
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2044.png",Матч! Футбол 1
-http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2 HD
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2
-http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆", Матч! Футбол 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
