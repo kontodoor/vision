@@ -1,14 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:-1,Первый канал
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1010__Perviy_kanal/playlist.m3u8
 #EXTINF:-1,Первый канал HD
 #EXTGRP:Эфирные
 http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1,Россия 1
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1043__Rossiya_1/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
@@ -21,12 +15,6 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
 #EXTINF:-1,ТНТ HD
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
-#EXTINF:-1,НТВ
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1100__NTV/playlist.m3u8
-#EXTINF:-1,НТВ HD
-#EXTGRP:Эфирные
-http://ntv-hls-orig.cdnvideo.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Пятый канал
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
@@ -51,42 +39,21 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1,СТС Love
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
-#EXTINF:-1,ТВЦ
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
-#EXTINF:-1,ТВ3
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1060__TV3/playlist.m3u8
 #EXTINF:-1,ТВ3 HD
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1,Че
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
-#EXTINF:-1,Домашний
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
 #EXTINF:-1,Домашний HD
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
-#EXTINF:-1,Звезда
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
 #EXTINF:-1,Звезда HD
 #EXTGRP:Эфирные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,МИР
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
 #EXTINF:-1,МИР HD
 #EXTGRP:Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,МИР24 HD
 #EXTGRP:Эфирные
 http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
-#EXTINF:-1,360
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1133__360_turk/playlist.m3u8
 #EXTINF:-1,360 Новости HD
 #EXTGRP:Эфирные
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
@@ -108,15 +75,9 @@ https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1,Муз ТВ
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
-#EXTINF:-1,Карусель
-#EXTGRP:Эфирные
-http://213.172.73.170:8081/nimble_live/1011__Karusel/playlist.m3u8
 #EXTINF:-1,Крым 24
 #EXTGRP:Эфирные
 https://mr2live.1tvcrimea.ru/switcher.m3u8
-#EXTINF:-1,Крым 24 HD
-#EXTGRP:Эфирные
-https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
 
 
 
