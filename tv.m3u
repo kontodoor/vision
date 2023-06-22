@@ -699,9 +699,6 @@ https://sc.id-tv.kz/NickJr_36_37.m3u8
 #EXTINF:-1 ,Карусель
 #EXTGRP:Детские
 http://91.234.255.18:8000/play/a008/index.m3u8
-#EXTINF:-1 ,Мама
-#EXTGRP:Детские
-http://78.25.155.47:1309/channel/Mama.ts
 #EXTINF:-1 ,Мультиландия
 #EXTGRP:Детские
 http://217.107.34.114:8008/playlist.m3u8
