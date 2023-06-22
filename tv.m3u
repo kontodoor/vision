@@ -3,18 +3,45 @@
 #EXTINF:-1,Первый канал HD
 #EXTGRP:Эфирные
 http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1,Россия 1
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/russiak.m3u8
+#EXTINF:-1,Россия 24
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/russia24.m3u8
+#EXTINF:-1,Москва 24
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/moscow24.m3u8
+#EXTINF:-1,НТВ HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1,РЕН ТВ HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+#EXTINF:-1,ТНТ HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
+#EXTINF:-1,ТНТ4 HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
+#EXTINF:-1,НТВ Хит
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
+#EXTINF:-1,НТВ Сериал
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
+#EXTINF:-1,НТВ Право
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
+#EXTINF:-1,НТВ Стиль
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8
-#EXTINF:-1,Рен ТВ HD
-#EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
-#EXTINF:-1,ТНТ
-#EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/480p.m3u8
-#EXTINF:-1,ТНТ HD
-#EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1,Пятый канал
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
@@ -24,61 +51,54 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,РБК HD
 #EXTGRP:Эфирные
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:Эфирные
-http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:Эфирные
-http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1,СТС
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8
-#EXTINF:-1,СТС HD
-#EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1,СТС Love
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
 #EXTINF:-1,ТВ3 HD
 #EXTGRP:Эфирные
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1,Домашний HD
-#EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 #EXTINF:-1,Звезда HD
 #EXTGRP:Эфирные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,МИР HD
 #EXTGRP:Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,МИР24 HD
-#EXTGRP:Эфирные
-http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
-#EXTINF:-1,360 Новости HD
-#EXTGRP:Эфирные
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1,360 HD
 #EXTGRP:Эфирные
 http://146.158.0.56/360HD/mono.m3u8
-#EXTINF:-1,360 Новости HD
-#EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
 #EXTINF:-1,365
 #EXTGRP:Эфирные
 http://146.158.0.56/365dney/mono.m3u8
 #EXTINF:-1,Пятница!
 #EXTGRP:Эфирные
 https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,Пятница! HD
+#EXTINF:-1,ОТР
 #EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
-#EXTINF:-1,Муз ТВ
+https://livetv.mylifeisgood.ml/channels/otr24.m3u8
+#EXTINF:-1,ТВЦ
 #EXTGRP:Эфирные
-https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
-#EXTINF:-1,Крым 24
+https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
+#EXTINF:-1,СПАС
 #EXTGRP:Эфирные
-https://mr2live.1tvcrimea.ru/switcher.m3u8
-
+https://livetv.mylifeisgood.ml/channels/spas.m3u8
+#EXTINF:-1,СТС HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/sts.m3u8
+#EXTINF:-1,СТС Love
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/stslove.m3u8
+#EXTINF:-1,Домашний HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/domashnii
+#EXTINF:-1,ТВ3 HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+#EXTINF:-1,Пятница HD
+#EXTGRP:Эфирные
+https://livetv.mylifeisgood.ml/channels/friday.m3u8
 
 
 
