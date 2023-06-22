@@ -343,15 +343,27 @@ https://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 #EXTGRP:Познавательные
 http://88.216.83.245/discovery/index.m3u8
+#EXTINF:-1,Investigation Discovery
+#EXTGRP:Познавательные
+rtmp://5.182.231.251//2085
+#EXTINF:-1,Investigation Discovery HD
+#EXTGRP:Познавательные
+rtmp://5.182.231.251//2102
+#EXTINF:-1,History HD
+#EXTGRP:Познавательные
+http://78.26.128.16:8081/363/index.m3u8
 #EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
 http://88.216.83.245/travel/index.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1,TLC
 #EXTGRP:Познавательные
-http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd.m3u8
+http://78.26.128.16:8081/62/index.m3u8
 #EXTINF:-1,H2
 #EXTGRP:Познавательные
-http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
+http://78.26.128.16:8081/222/index.m3u8
+#EXTINF:-1,H2 HD
+#EXTGRP:Познавательные
+rtmp://5.182.231.251//2033
 #EXTINF:-1,National Geographic
 #EXTGRP:Познавательные
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
@@ -364,33 +376,21 @@ http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:-1,Investigation Discovery HD
 #EXTGRP:Познавательные
 http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
-#EXTINF:-1,Discovery Channel
-#EXTGRP:Познавательные
-http://streamer1.ruslanatv.ru/russia/discovery_sd_new_2023/playlist.m3u8
 #EXTINF:-1,History HD
 #EXTGRP:Познавательные
 http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
+#EXTINF:-1,DTX
+#EXTGRP:Познавательные
+rtmp://5.182.231.251//2006
 #EXTINF:-1,Extreme Sports
 #EXTGRP:Познавательные
 https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1,Galaxy
 #EXTGRP:Познавательные
 http://146.158.0.56/Galaxy/mono.m3u8
-#EXTINF:-1 ,Global Star TV
-#EXTGRP:Познавательные
-http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
 #EXTINF:-1 ,Nano TV HD
 #EXTGRP:Познавательные
 http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Nat Geo HD
-#EXTGRP:Познавательные
-http://217.107.219.67:8010/playlist.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,TLC
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1 ,Travel & Adventure HD
 #EXTGRP:Познавательные
 http://45.142.213.81:8001/playlist.m3u8
@@ -412,9 +412,6 @@ http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TVM Channel
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/tvm/index.m3u8
-#EXTINF:-1 ,Terra
-#EXTGRP:Познавательные
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD/480p.m3u8
 #EXTINF:-1 ,Terra HD
 #EXTGRP:Познавательные
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
@@ -444,64 +441,22 @@ https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 ,Моя Планета
 #EXTGRP:Познавательные
-https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
-#EXTINF:-1 ,History
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1 ,Discovery Channel
-#EXTGRP:Познавательные
-https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+rtmp://5.182.231.251//2090
 #EXTINF:-1 ,HD Life
 #EXTGRP:Познавательные
-https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1 ,Зоопарк
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/zoo.ts
+http://80.251.49.103:8003/play/174
 #EXTINF:0 tvg-id="glazami-turista-4k" tvg-logo="http://epg.it999.ru/img2/2508.png",Глазами туриста
 #EXTGRP:Познавательные
 https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
-#EXTINF:-1 tvg-id="teleputeshestvija" tvg-logo="http://epg.it999.ru/img2/2424.png",Телепутешествия 
-#EXTGRP:Познавательные
-http://92.43.140.249/s71/index.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png",Первый космический
 #EXTGRP:Познавательные
 http://92.43.140.249/s44/index.m3u8
-#EXTINF:-1,Discovery Channel
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
-#EXTINF:-1,National Geographic Wild HD
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,National Geographic Wild HD
-#EXTGRP:Познавательные
-https://sc.id-tv.kz:443/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,History
-#EXTGRP:Познавательные
-https://sc.id-tv.kz:443/HistoryHD_36_37.m3u8
-#EXTINF:-1,History HD
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1,HDL
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1,TLC
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1,WORLD HD
 #EXTGRP:Познавательные
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1,Просвещение
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,Психология
-#EXTGRP:Познавательные
-http://78.25.155.47:1309/channel/Psih_21.ts
-#EXTINF:-1,Техно 24
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/Tehno24_34_35.m3u8
 
 
 #EXTINF:-1,Da Vinci
