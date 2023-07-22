@@ -397,24 +397,15 @@ http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
 #EXTINF:-1,DTX
 #EXTGRP:Познавательные
 rtmp://5.182.231.251//2006
-#EXTINF:-1,Extreme Sports
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1,Galaxy
 #EXTGRP:Познавательные
 http://146.158.0.56/Galaxy/mono.m3u8
 #EXTINF:-1 ,Nano TV HD
 #EXTGRP:Познавательные
 http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Travel & Adventure HD
-#EXTGRP:Познавательные
-http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1 ,Ocean TV
 #EXTGRP:Познавательные
 http://146.158.0.56/OceanTV/mono.m3u8
-#EXTINF:-1 ,TV BRICS
-#EXTGRP:Познавательные
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV BRICS HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/brics/index.m3u8
@@ -459,19 +450,23 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 rtmp://5.182.231.251//2090
 #EXTINF:-1 ,HD Life
 #EXTGRP:Познавательные
-http://80.251.49.103:8003/play/174
+http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDY6MzA6MzcgQU0maGFzaF92YWx1ZT1vRjJoNzZ5Y0ROWFM4ck5pTmJKS2VBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0 tvg-id="glazami-turista-4k" tvg-logo="http://epg.it999.ru/img2/2508.png",Глазами туриста
 #EXTGRP:Познавательные
-https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.it999.ru/img2/2310.png",Первый космический
 #EXTGRP:Познавательные
 http://92.43.140.249/s44/index.m3u8
 #EXTINF:-1,WORLD HD
 #EXTGRP:Познавательные
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1,Просвещение
+#EXTINF:-1,Телепутешествия
 #EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+http://arbiter.bolshoe.tv/?path=abr1/teletravel/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDY6MzA6MzcgQU0maGFzaF92YWx1ZT1vRjJoNzZ5Y0ROWFM4ck5pTmJKS2VBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1,Большая азия
+#EXTGRP:Познавательные
+http://arbiter.bolshoe.tv/?path=abr3/bigasia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDY6MzA6MzcgQU0maGFzaF92YWx1ZT1vRjJoNzZ5Y0ROWFM4ck5pTmJKS2VBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
 
 
 #EXTINF:-1,Da Vinci
