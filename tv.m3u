@@ -361,6 +361,9 @@ https://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 #EXTGRP:Познавательные
 http://88.216.83.245/discovery/index.m3u8
+#EXTINF:-1,Discovery Science
+#EXTGRP:Познавательные
+http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:-1,Investigation Discovery
 #EXTGRP:Познавательные
 rtmp://5.182.231.251//2085
@@ -460,12 +463,6 @@ http://92.43.140.249/s44/index.m3u8
 #EXTINF:-1,WORLD HD
 #EXTGRP:Познавательные
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1,Телепутешествия
-#EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr1/teletravel/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDY6MzA6MzcgQU0maGFzaF92YWx1ZT1vRjJoNzZ5Y0ROWFM4ck5pTmJKS2VBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Большая азия
-#EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr3/bigasia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDY6MzA6MzcgQU0maGFzaF92YWx1ZT1vRjJoNzZ5Y0ROWFM4ck5pTmJKS2VBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 
 
@@ -477,7 +474,7 @@ https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/480p.m3u8
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Extreme Sports
 #EXTGRP:Развлекательные
-https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
 #EXTINF:-1,Fashion & Lifestyle HD
 #EXTGRP:Развлекательные
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8
@@ -490,15 +487,9 @@ http://146.158.0.56/Galaxy/mono.m3u8
 #EXTINF:-1,Global Star TV
 #EXTGRP:Развлекательные
 http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Global Star TV
-#EXTGRP:Развлекательные
-http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
 #EXTINF:-1,Leomax 24
 #EXTGRP:Развлекательные
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1,Luxury HD
-#EXTGRP:Развлекательные
-http://streamer01.tv-nano.ru:8082/Luxury_HD_rec/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MOSOBR TV
 #EXTGRP:Развлекательные
 http://retc.educom.ru/mosobrtv/tv2/index.m3u8
@@ -520,9 +511,6 @@ http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1,Sochi 
 #EXTGRP:Развлекательные
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1,Sochi Live HD
-#EXTGRP:Развлекательные
-http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
 #EXTINF:-1,WFC TV HD
 #EXTGRP:Развлекательные
 http://live-3.otcnet.ru/wfcrus/index.m3u8
@@ -546,28 +534,37 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Диалоги о рыбалке
 #EXTGRP:Развлекательные
-https://livetv.mylifeisgood.ml/channels/dialogiorybalke.m3u8
-#EXTINF:-1,Дикая Охота
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+#EXTINF:-1,ДИКИЙ
 #EXTGRP:Развлекательные
-http://81.177.165.206:8010/playlist.m3u8
-#EXTINF:-1,Дикая Рыбалка
+http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,ОХОТА И РЫБАЛКА
 #EXTGRP:Развлекательные
-http://217.107.219.67:8008/playlist.m3u8
-#EXTINF:-1,Дикий
+http://91.220.135.165:81/45/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,ДИКАЯ ОХОТА HD
 #EXTGRP:Развлекательные
-http://217.107.34.114:8007/playlist.m3u8
-#EXTINF:-1,Дикий
+http://91.220.135.165:81/37/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,ДИКАЯ РЫБАЛКА HD
 #EXTGRP:Развлекательные
-http://138.201.67.145:8081/Dikiy/index.m3u8
-#EXTINF:-1,Домашние животные
+http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,ДОМАШНИЕ ЖИВОТНЫЕ
 #EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Dom_jiv.ts
+http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,ЗООПАРК
+#EXTGRP:Развлекательные
+http://91.220.135.165:81/47/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,УСАДЬБА
+#EXTGRP:Развлекательные
+http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,ЗДОРОВОЕ ТВ
+#EXTGRP:Развлекательные
+http://91.220.135.165:81/49/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,ВОПРОСЫ и ОТВЕТЫ
+#EXTGRP:Развлекательные
+http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1,Драйв
 #EXTGRP:Развлекательные
 http://78.25.155.47:1309/channel/Drive.ts
-#EXTINF:-1,Еда Премиум (Международный)
-#EXTGRP:Развлекательные
-https://sc.id-tv.kz/EdaHD_34_35.m3u8
 #EXTINF:-1,Живи
 #EXTGRP:Развлекательные
 http://138.201.67.145:8081/zhivi/index.m3u8
@@ -582,13 +579,7 @@ http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 http://217.107.34.114:8005/playlist.m3u8
 #EXTINF:-1,Загородный Int.
 #EXTGRP:Развлекательные
-https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
-#EXTINF:-1,Здоровое ТВ
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Zdorovoe.ts
-#EXTINF:-1,Зоопарк
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/zoo.ts
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1,История
 #EXTGRP:Развлекательные
 http://78.25.155.47:1309/channel/Istoria.ts
@@ -598,21 +589,9 @@ http://146.158.0.56/KuhnyaTV/mono.m3u8
 #EXTINF:-1,Моторспорт ТВ
 #EXTGRP:Развлекательные
 http://146.158.0.56/Motosport/mono.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Moya_pl.ts
 #EXTINF:-1,Моя Планета HD
 #EXTGRP:Развлекательные
 http://193.33.240.8:8080/planeta_hd/index.m3u8
-#EXTINF:-1,Мужской
-#EXTGRP:Развлекательные
-http://81.177.165.206:8009/playlist.m3u8
-#EXTINF:-1,Мужской
-#EXTGRP:Развлекательные
-https://sc.id-tv.kz/Mujskoi_34_35.m3u8
-#EXTINF:-1,Охота и Рыбалка
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Ohota_i_rib.ts
 #EXTINF:-1,Поехали!
 #EXTGRP:Развлекательные
 https://sc.id-tv.kz/poehali_34_35.m3u8
@@ -631,12 +610,6 @@ http://193.33.240.8:80/Teleputeshestviya/video.m3u8
 #EXTINF:-1,Усадьба
 #EXTGRP:Развлекательные
 http://78.25.155.47:1309/channel/Usadba.ts
-#EXTINF:-1,Че!
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Che.ts
-#EXTINF:-1,Ю
-#EXTGRP:Развлекательные
-https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
 #EXTINF:-1,Ювелирия ТВ
 #EXTGRP:Развлекательные
 https://video.jewelleria.de/hlslive/test/site.m3u8
@@ -664,21 +637,123 @@ https://freshauto.shopstory.live/proxy?url=https://freshauto.shopstory.live/vide
 #EXTINF:-1,Fresh Auto TV HD
 #EXTGRP:Развлекательные
 https://freshauto.shopstory.live/proxy?url=https://freshauto.shopstory.live/videos/1080p/index.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Оружие
+#EXTINF:-1,Оружие
 #EXTGRP:Развлекательные
-https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Глазами Туриста
+https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+#EXTINF:-1,Глазами Туриста
 #EXTGRP:Развлекательные
-https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
+#EXTINF:-1,Живая природа
 #EXTGRP:Развлекательные
-https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Наша Сибирь HD
+https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
+#EXTINF:-1,Наша Сибирь HD
 #EXTGRP:Развлекательные
-https://livetv.mylifeisgood.ml/channels/nashasibirhd.m3u8
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3552.png",Удар
 #EXTGRP:Развлекательные
 https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1,ДРАЙВ
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2021
+#EXTINF:-1,ЗДОРОВОЕ ТВ
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2022
+#EXTINF:-1,ПСИХОЛОГИЯ 21
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2025
+#EXTINF:-1,ВОПРОСЫ И ОТВЕТЫ
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2026
+#EXTINF:-1,ДОЖДЬ
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2030
+#EXTINF:-1,365 ДНЕЙ
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2040
+#EXTINF:-1,КТО ЕСТЬ КТО
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2042
+#EXTINF:-1,FASHION TV HD
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2045
+#EXTINF:-1,LUXURY HD
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2072
+#EXTINF:-1,ВМЕСТЕ-РФ
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2073
+#EXTINF:-1,Russian Extreme HD
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2077
+#EXTINF:-1,ОТКРЫТЫЙ МИР
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2078
+#EXTINF:-1,ЗАГОРОДНЫЙ
+#EXTGRP:Развлекательные
+rtmp://5.182.231.251//2099
+#EXTINF:-1,История
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/istoriya/index.m3u8
+#EXTINF:-1,Живая природа HD
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/jivaya_priroda_hd/index.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/ohot_i_rybolov_hd/index.m3u8
+#EXTINF:-1,Рыболов
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/ohotnik/index.m3u8
+#EXTINF:-1,Телепутешествия
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/teleputeshestviya/index.m3u8
+#EXTINF:-1,Приключения HD
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/teletravel_hd/index.m3u8
+#EXTINF:-1,Живая планета
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/zhivaya-planeta/index.m3u8
+#EXTINF:-1,Gags network
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/raz-tv/index.m3u8
+#EXTINF:-1,Кто есть кто
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/kto-est-kto/index.m3u8
+#EXTINF:-1,Кухня ТВ
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/kuhnya/index.m3u8
+#EXTINF:-1,365 Дней
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/365_dnej/index.m3u8
+#EXTINF:-1,Авто плюс
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/avto_plus/index.m3u8
+#EXTINF:-1,Русский экстрим HD
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/rus-extrim-hd/index.m3u8
+#EXTINF:-1,Русский экстрим
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/rus-extrim/index.m3u8
+#EXTINF:-1,О!
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/o_/index.m3u8
+#EXTINF:-1,Поехали!
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/Poehali/index.m3u8
+#EXTINF:-1,Просвещение
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/prosveshenie/index.m3u8
+#EXTINF:-1,Теледом HD
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/teledom_hd/index.m3u8
+#EXTINF:-1,Тномер
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/tnomer/index.m3u8
+#EXTINF:-1,Точка тв
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/tochka/index.m3u8
+#EXTINF:-1,Наша тема HD
+#EXTGRP:Развлекательные
+http://109.200.135.130:8080/nasha_tema_hd/index.m3u8
 
 
 
