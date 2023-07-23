@@ -1354,15 +1354,21 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс", Матч! Футбол 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
-https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
-https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2043.png",Матч! Планета
 https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2042.png",МАТЧ! СТРАНА
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2530.png",СТАРТ HD
-https://livetv.mylifeisgood.ml/channels/startlive.m3u8
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорткомплекс",Русский экстрим
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiYzgzODkxZTctYTlmZi00MjBkLThkODktODYzYWNjNTZmMzllIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA3LTIzVDE5OjAxOjEzWiIsInN0cmVhbV9uYW1lIjoiMTg2Iiwic3RyZWFtX3BhdGgiOiIvaXBfdjUiLCJkYXRhY2VudGVyIjoiaW50IiwicHJvamVjdCI6InZva2FfcHJvZHVjdGlvbiJ9/MCwCFCCiguFNOZ6_z-dk0EZEehYA8zpiAhQn5obvHjlGuTI3pf1UZ1CkghaenA%3D%3D/ip_v5/186.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорткомплекс",Extreme Sports
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZWUzMDZkZWMtNTMxOS00NDJkLWFiM2QtZTVhOGNlNGJkZmE1IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA3LTIzVDE5OjAxOjE0WiIsInN0cmVhbV9uYW1lIjoiMzAwOSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFAjQI77DoGM1cqUPZIZ_dvcj3m5WAhRI6-KT8k-8Utmjn47IGsostj6Hyw%3D%3D/ip_v5/3009.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорткомплекс",Беларусь 5 HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMmVjMTFhZjItZjFkNC00MzViLWI1MjctNWE0ODk4YmEzZDU4IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA3LTIzVDE5OjAxOjIyWiIsInN0cmVhbV9uYW1lIjoiOSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFG0IHMUdBmAzUJzBbxJ1XhcDwuWHAhRD0Pi34q6DHMCHf1P-xHB7_AJdNg%3D%3D/ip_v5/9.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="720" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорткомплекс",ULTRA 4K EXTREME
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMzM3MjdmNjEtZTQxNC00MDU5LTgyNjQtMDgyNmI5Y2IwYjAzIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA3LTIzVDE5OjAxOjIzWiIsInN0cmVhbV9uYW1lIjoiMTA0MiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFQCLVwI4dO0hXg2rqz2xxlTOJPp3twIUew-I34WMDKNEUqLlzttNdlyy1WA%3D/ip_v5/1042.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2052.png",Eurosport 1
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://pl.ottglanz.tv/icon/6904.png",Eurosport 2
@@ -1373,8 +1379,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
 http://tv.streams.baikal-telecom.net/Viasat_Sport/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс", Viju+ Sport HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс",FITE
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2326.png",M-1 Global
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",MySports 1 HD
@@ -1384,7 +1388,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2055.png",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2055.png",Viasat Sport HD
-https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viasatsporthd.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2285.png",Бокс ТВ
 https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2048.png",KHL
@@ -1415,8 +1419,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://vhx.imgix.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg",MMA-TV.COM
@@ -1437,6 +1439,30 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/480p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Старт Триумф HD
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс" ,Футбол HD
+http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс" ,Телеканал Футбол
+http://api.peers.tv/timeshift/futbol/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс" ,Матч! Боец
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс" ,KHL
+http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс" ,KHL Prime HD
+http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс" ,MMA-TV.COM
+http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс" ,Мир Баскетбола
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс", Старт
+http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс", Бокс ТВ
+http://api.peers.tv/timeshift/boks_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Спорткомплекс", Русский Экстрим
+http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорткомплекс",Eurosport 1 HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMjM3ODNlZTQtM2MzOC00MWJmLWI1MWItOThiZDY3NGY1NTFjIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA3LTIzVDE5OjAxOjExWiIsInN0cmVhbV9uYW1lIjoiNTEwMiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFQCSID6rfd8UYjhFekjSs_wWYOHkwAIUVN3AEgi5Hpk1ZfhQZkXdHh3IMbU%3D/ip_v5/5102.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="7200" catchup-source="?stream_start_offset=${offset}000000" group-title="Спорткомплекс",Viasat Sport HD
+https://cdn-cache01.voka.tv:443/live/6005.m3u8
 
 
 
