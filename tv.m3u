@@ -898,11 +898,21 @@ http://api.peers.tv/timeshift/pro_zhizn/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 
 
 
-
-
-#EXTINF:-1 ,Nick Jr
+#EXTINF:-1,Nick Jr
 #EXTGRP:Детские
-https://sc.id-tv.kz/NickJr_36_37.m3u8
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1,Jimjam
+#EXTGRP:Детские
+http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+#EXTINF:-1,Ani
+#EXTGRP:Детские
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+#EXTGRP:Детские
+http://streamer1.ruslanatv.ru/russia/nickelodeon_2023/playlist.m3u8
+#EXTINF:-1,Cartoon network
+#EXTGRP:Детские
+http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8
 #EXTINF:-1 ,Карусель
 #EXTGRP:Детские
 https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
@@ -1038,7 +1048,18 @@ https://mhd116.iptv2022.com/p/PXuxmkXr1hpugTP5LYMxuA,1690059615/streaming/ginger
 #EXTINF:-1,Anime Kids
 #EXTGRP:Детские
 https://mhd116.iptv2022.com/p/7D3f-R7Bei-Od80FW9-SWQ,1690059615/streaming/anime_kids/324/1/index.m3u8
-
+#EXTINF:-1,ТипТоп
+#EXTGRP:Детские
+https://mhd116.iptv2022.com/p/JGaoY1XQQNe4l3doKXXxpw,1690059615/streaming/tiptop/324/1/index.m3u8
+#EXTINF:-1,МультСезон
+#EXTGRP:Детские
+https://mhd116.iptv2022.com/p/DbknlwYwgrrTLNeCb8cFpQ,1690059616/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1,Детское кино
+#EXTGRP:Детские
+https://mhd116.iptv2022.com/p/U9_8BSVVl10ZwnUPp8-Kww,1690059616/streaming/det_kino/324/1/index.m3u8
+#EXTINF:-1,Пингвин ЛОЛО
+#EXTGRP:Детские
+https://mhd116.iptv2022.com/p/q39gPmhNoAvrcHn9ruIRIg,1690059616/streaming/pingvin/324/1/index.m3u8
 
 
 
