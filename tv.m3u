@@ -559,30 +559,12 @@ http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1,ЗДОРОВОЕ ТВ
 #EXTGRP:Развлекательные
 http://91.220.135.165:81/49/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1,ВОПРОСЫ и ОТВЕТЫ
-#EXTGRP:Развлекательные
-http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1,Драйв
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Drive.ts
-#EXTINF:-1,Живи
-#EXTGRP:Развлекательные
-http://138.201.67.145:8081/zhivi/index.m3u8
-#EXTINF:-1,ЗА ТВ
-#EXTGRP:Развлекательные
-https://s7lbbydibgn.a.trbcdn.net/live/SSJqBtZ6jBWeWZOJ.m3u8
 #EXTINF:-1,Загородная Жизнь
 #EXTGRP:Развлекательные
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
-#EXTINF:-1,Загородный
-#EXTGRP:Развлекательные
-http://217.107.34.114:8005/playlist.m3u8
 #EXTINF:-1,Загородный Int.
 #EXTGRP:Развлекательные
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1,История
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Istoria.ts
 #EXTINF:-1,Кухня ТВ
 #EXTGRP:Развлекательные
 http://146.158.0.56/KuhnyaTV/mono.m3u8
@@ -604,12 +586,6 @@ http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
 #EXTINF:-1,ТНТ4
 #EXTGRP:Развлекательные
 https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,Телепутешествия
-#EXTGRP:Развлекательные
-http://193.33.240.8:80/Teleputeshestviya/video.m3u8
-#EXTINF:-1,Усадьба
-#EXTGRP:Развлекательные
-http://78.25.155.47:1309/channel/Usadba.ts
 #EXTINF:-1,Ювелирия ТВ
 #EXTGRP:Развлекательные
 https://video.jewelleria.de/hlslive/test/site.m3u8
@@ -631,12 +607,6 @@ https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1,A21 Network - NM TV
 #EXTGRP:Развлекательные
 https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:-1,Fresh Auto TV
-#EXTGRP:Развлекательные
-https://freshauto.shopstory.live/proxy?url=https://freshauto.shopstory.live/videos/480p/index.m3u8
-#EXTINF:-1,Fresh Auto TV HD
-#EXTGRP:Развлекательные
-https://freshauto.shopstory.live/proxy?url=https://freshauto.shopstory.live/videos/1080p/index.m3u8
 #EXTINF:-1,Оружие
 #EXTGRP:Развлекательные
 https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
