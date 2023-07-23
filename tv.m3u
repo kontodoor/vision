@@ -333,57 +333,6 @@ https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u
 #EXTINF:-1, Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
 https://er-cdn.ertelecom.ru/os/video/hls/6b3393654a06f73478240c6c545b879df562a5f35bf312e98739fdb31c3a3bdf744fe68b580c03a0f4d4b76ebaf9295c5c8c898b0f7ea0d377893d75a417bda2581f02f08483552564dad189b1f6e684656c1ec537b687971699b85fd2bf94a9d5da521fc183eea37e1d48fdcc43009751eda4bd44ca52f4cd02d669fa8f017f9c4d4f77b69c4e1c3df8b7b043c1a59564eae88dd8a4201b61f133fd639b8fff5eddb0e106b209d3843ffb9215fdd309db2184615e42e59be2211f36aab2ec198f3d6ff0bc94f95bde4a011aa9b41f1c0cdb426981f70abd1d9799db023f9adc8d81e3801e5b72ccc515c7964897112ed0bafa94c92954ed3a812f11e6a0ed141f433b0d401f147a74bef3ca4613a92df18bb94d3f2c4d7cca504983ac918b3738b62b1008a282276b2dbbe4f476efe2b2c0a66a0bd8bc454a63fb0aeeb72ad58c4b1e487e2618f246f0fa2cdad9ab11/playlist.m3u8
-#EXTINF:-1,Русский Иллюзион
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=streaming/rusillusion/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Иллюзион+
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr2/illusionplus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Русский Роман
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=streaming/rus_roman/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,TV XXI
-#EXTGRP:Кино
-http://95.181.17.6/streaming/tv21/71/mobile2/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Феникс+кино
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Киносемья
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=streaming/kinofamily/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Кинохит
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=streaming/kinohit/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Индийское кино
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr1/india/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Кинокомедия
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr1/komedia/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Киносвидание
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr3/kinosvidanie/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Наше новое кино
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr4/nashe_novoe_kino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Мосфильм. Золотая коллекция HD
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Fan HD
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr3/fan_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Победа
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr1/pobeda/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,НСТ
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=streaming/nstv/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Bollywood HD
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr1/BollywoodHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Дом кино
-#EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr1/domkino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}",Еврокино
 #EXTGRP:Кино
 http://api.peers.tv/timeshift/eurokino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTAxMzg5MDYsImlhdCI6MTY5MDA1MjUwNiwiY2lkIjo2LCJ1aWQiOjYxOTkwNTA0NCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.S50BwSBucLKkjhZAQQhmk-rRg9q_hS9DWoIZHx_3OS8&offset=10
