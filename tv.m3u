@@ -264,27 +264,36 @@ https://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 ,Дом Кино
 #EXTGRP:Кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1 ,КИНОПРЕМЬЕРА HD
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Кинопремьера
 #EXTGRP:Кино
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1 ,Мужское Кино HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNGM1NWZhMTMtNDdjNy00ZWQ5LTk1YzctOWQzOWQxMTdjZTg2IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjE1WiIsInN0cmVhbV9uYW1lIjoiNzMiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MC0CFQCQbNK_toPdlzd71cvqZZaFxJ8TAAIUP2T54BCPYKUN6QwBzuB9UJ6jGuA%3D/ip_v5/73.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Индийское кино
 #EXTGRP:Кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1 ,Киносвидание HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiOWFlMmI1ZmQtNjk1YS00MTE1LTgxNjctNjA1YjMzNWM0NWExIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjEzWiIsInN0cmVhbV9uYW1lIjoiMTQ0NyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFACwFKRUrX5_QRlH2c-tB6A5LkwkAhRSvbfZB-940b5xXQonUr7iuJioyg%3D%3D/ip_v5/1447.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Киномикс HD
 #EXTGRP:Кино
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1 ,КИНОСЕМЬЯ
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiOGI5NjNjNTEtMjlhOS00Y2JkLTk4YTYtM2RjMDQ0ZjExOWViIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjE4WiIsInN0cmVhbV9uYW1lIjoiNzEiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFHbbOmGu7m2t2XbBXigAq-kY-RRVAhRMZP1JeT_WN3aCG0_s_EQkWmsXsA%3D%3D/ip_v5/71.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Киносемья HD
 #EXTGRP:Кино
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 ,Киномикс HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiY2UwZTdmZTctYWJlYy00MTY5LTg2ZWEtMDBlZTAyNzU3N2U0IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjE5WiIsInN0cmVhbV9uYW1lIjoiNzIiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFE9BPWVXfKmK0vLVuVYp_hRSYtaCAhRYBj9o5SP1F5euv7696Yb3g2zk7A%3D%3D/ip_v5/72.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Наше новое кино HD
 #EXTGRP:Кино
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1 ,РОДНОЕ КИНО
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiOTEzZGYyYzEtMTdjZS00YzVlLWE4YTEtMTMxODcxMWVmMjgwIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjIwWiIsInN0cmVhbV9uYW1lIjoiNzUiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFHPI_Zz6scFA7OuTF83LjEVmmu_5AhQTOg1BrCQU2RlE4cVm61PkJolIQg%3D%3D/ip_v5/75.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Киносвидание HD
 #EXTGRP:Кино
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1 ,Кинокомедия HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNGU5Yzg5OWItOWNlMS00ODEyLTgzM2EtY2MxMzA2MTBkOTUyIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjIyWiIsInN0cmVhbV9uYW1lIjoiNzciLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MC0CFQCNIdnk6f9fTdj2234e0rm27ZdyVwIUf0SMf4jW2U81nZsmVXtqljTaGic%3D/ip_v5/77.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Кинокомедия HD
 #EXTGRP:Кино
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZWJjYWNmZTktZjFiNy00Y2E2LWI3NjQtZmI4ZmE2MmZhYTU4IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjIwWiIsInN0cmVhbV9uYW1lIjoiMjExNiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFGlF8pNxTf9EtWo1DxUrhhF5jCFzAhQ_SZpzDWvufaxyVmIGZxuUscE4Uw%3D%3D/ip_v5/2116.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Киносерия HD
+#EXTGRP:Кино
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiZWY4MWU4NjUtZjViMy00ZGZkLTlmMDYtZWJjMzY0YjA4M2I2IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjI1WiIsInN0cmVhbV9uYW1lIjoiNzkiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFGor1bKYlCFiV9fEjYmiWEni48eMAhQQ3AoNXfBwgJ_4n5BoAK2DYdodRw%3D%3D/ip_v5/79.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Родное кино
+#EXTGRP:Кино
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNTQzYmNlNzktODY1NS00ZDMwLThmYzAtZTZlZjYwMDNmODQ0IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjEzWiIsInN0cmVhbV9uYW1lIjoiODAiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MC0CFQCShnMin9ikBvt056E7D9v8TO8qegIUZ6zekCcnDAdHxKN3pO_l1g4jsY4%3D/ip_v5/80.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="10080" catchup-source="?stream_start_offset=${offset}000000",Мужское кино
+#EXTGRP:Кино
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiOTg4ZjkyOWYtYWZlYi00YWQzLWJhYWEtNzk3MjBiNGEwMDJjIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjI4WiIsInN0cmVhbV9uYW1lIjoiNzQiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQiLCJwcm9qZWN0Ijoidm9rYV9wcm9kdWN0aW9uIn0%3D/MCwCFBdRGstyPNQajP9GKSXv2EEBcUcqAhRdHknl8e9dzlAXv2_F69SvQvO5qA%3D%3D/ip_v5/74.m3u8
 #EXTINF:-1 ,Кинохит HD
 #EXTGRP:Кино
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
@@ -344,19 +353,19 @@ http://edge02.odtv.az/o5/discovery/playlist.m3u8
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:-1,Investigation Discovery
 #EXTGRP:Познавательные
-rtmp://5.182.231.251//2085
-#EXTINF:-1,Investigation Discovery HD
-#EXTGRP:Познавательные
-rtmp://5.182.231.251//2102
+http://194.114.144.244:8001/play/id
 #EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
-http://88.216.83.245/travel/index.m3u8
-#EXTINF:-1,TLC
+http://91.233.215.250:7272/07pqiSOeAdHpghx
+#EXTINF:-1,TLC (eng)
 #EXTGRP:Познавательные
 rtmp://93.189.60.202//1105
-#EXTINF:-1,H2 HD
+#EXTINF:-1,TLC HD (eng)
 #EXTGRP:Познавательные
-rtmp://5.182.231.251//2033
+rtmp://93.189.60.202//1105
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000",TLC HD
+#EXTGRP:Познавательные
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiY2M4ZGE2OWQtOWM1ZS00YzU5LWI2NjYtZjliZGE1NmMzMzIxIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjU0OjQwWiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MCwCFBCZvIiP5uqmWbIt_vBVA4IgIxgTAhQxf0-Xy65TRrA5ZLBuIAIBhRw9oA%3D%3D/ip_v5/5117.m3u8
 #EXTINF:-1,National Geographic
 #EXTGRP:Познавательные
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
@@ -365,7 +374,7 @@ http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Animal Planet HD
 #EXTGRP:Познавательные
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
 #EXTINF:-1,Investigation Discovery HD
 #EXTGRP:Познавательные
 http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
@@ -425,10 +434,13 @@ https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 ,Моя Планета
 #EXTGRP:Познавательные
-rtmp://5.182.231.251//2090
-#EXTINF:-1 ,HD Life
+http://31.134.132.245:8080/planeta_hd/index.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000",Travel+Adventure HD
 #EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDY6MzA6MzcgQU0maGFzaF92YWx1ZT1vRjJoNzZ5Y0ROWFM4ck5pTmJKS2VBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNGZiNjQ3MTYtM2UyYS00NTU3LThjZDktY2E4N2VkOTRkZGYwIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjUzOjQwWiIsInN0cmVhbV9uYW1lIjoiOTY0Iiwic3RyZWFtX3BhdGgiOiIvaXBfdjUiLCJkYXRhY2VudGVyIjoiaW50IiwicHJvamVjdCI6InZva2FfcHJvZHVjdGlvbiJ9/MCwCFGdDVNlwrRZ56sgKD6AEgyqWqbO5AhR0i37W0NdRN8Lm5Puj6c9whB8vEw%3D%3D/ip_v5/964.m3u8
+#EXTINF:-1 catchup="append" catchup-minutes="2880" catchup-source="?stream_start_offset=${offset}000000",HD Life
+#EXTGRP:Познавательные
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiOTkwMWU2NTItMTZkNy00MzYyLTg0ZmUtYjExN2EyMzFiZTY1IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA4LTA3VDE4OjUzOjQxWiIsInN0cmVhbV9uYW1lIjoiODc4Iiwic3RyZWFtX3BhdGgiOiIvaXBfdjUiLCJkYXRhY2VudGVyIjoiaW50IiwicHJvamVjdCI6InZva2FfcHJvZHVjdGlvbiJ9/MC0CFQCLwMZdZRUil2UY290V77OprVoQHgIUFFlGFSY5JlpTVe_HoynEgwpvwwQ%3D/ip_v5/878.m3u8
 #EXTINF:0 tvg-id="glazami-turista-4k" tvg-logo="http://epg.it999.ru/img2/2508.png",Глазами туриста
 #EXTGRP:Познавательные
 https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
