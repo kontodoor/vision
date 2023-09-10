@@ -1163,32 +1163,8 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/480p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Старт Триумф HD
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-id="megogo-football-1" ,Megogo 1 live HD UA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e7.varcdn.top/mego1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-id="megogo-football-2" ,Megogo 2 live HD UA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e5.varcdn.top/mego2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-id="megogo-football-3" ,Megogo 3 live HD UA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e1.varcdn.top/mego3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://varplatform.top/logo/8.png", Setanta Ukraine HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e5.varcdn.top/setantasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img2/6860.png" ,Setanta Ukraine Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e7.varcdn.top/setantaplusukraina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://troya.tv/images/chIcons/828.png?62879e8995c3b",Setanta Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e7.varcdn.top/setanta1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" ,Setanta Sports 2 HD
 https://tv.movielab.pro/943/video.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://varplatform.top/logo/31.png", Setanta Qazaqstan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e2.varcdn.top/rpl1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://varplatform.top/logo/okko.png",Okko sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
-https://e7.varcdn.top/1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" ,ELEVEN SPORTS 1 UHD PT
 http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорткомплекс" ,Eleven Sports 1 HD PL
