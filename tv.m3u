@@ -344,6 +344,9 @@ http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
 #EXTINF:-1,Investigation Discovery HD
 #EXTGRP:Познавательные
 http://il2.ottstream.live:17070/C123/index.m3u8?token=NjkxMzQ1NDk1NCsxNjk0Mjg1ODcyKzE3MDQwMzU3MjQrMSsrMCszK0wrMytDNzc5K2IyZTQ5MzBjYTNlYzRkZTBlYTBlMDMzNjE3OGRhZjkw
+#EXTINF:-1,Travel+Adventure
+#EXTGRP:Познавательные
+http://91.200.160.134:15000/play/a0cn/index.m3u8
 #EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
 http://91.233.215.250:7272/07pqiSOeAdHpghx
@@ -523,13 +526,13 @@ https://mhd116.iptv2022.com/p/adA0MYcyiZ5VOikRwPaNbA,1694379612/streaming/ribalk
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1,ЗООПАРК
 #EXTGRP:Развлекательные
-http://91.220.135.165:81/47/tracks-v1a1v1/playlist.m3u8
+http://91.200.160.134:15000/play/a0of/index.m3u8
 #EXTINF:-1,УСАДЬБА
 #EXTGRP:Развлекательные
-http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
+http://91.200.160.134:15000/play/a0c0/index.m3u8
 #EXTINF:-1,ЗДОРОВОЕ ТВ
 #EXTGRP:Развлекательные
-http://91.220.135.165:81/49/tracks-v1a1v1/playlist.m3u8
+http://46.174.83.66/Zdorovoe_TV/index.m3u8
 #EXTINF:-1,Загородная Жизнь
 #EXTGRP:Развлекательные
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
@@ -563,9 +566,6 @@ https://video.jewelleria.de/hlslive/test/site.m3u8
 #EXTINF:-1,Ювелирочка ТВ
 #EXTGRP:Развлекательные
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1,Ювелирочка ТВ
-#EXTGRP:Развлекательные
-http://okko-media.cdnvideo.ru/live/okko/uvelir/hls/playlist_sdhigh.m3u8
 #EXTINF:-1,555 Hunt Fishing TV
 #EXTGRP:Развлекательные
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
@@ -595,43 +595,37 @@ https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1,ДРАЙВ
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2021
-#EXTINF:-1,ЗДОРОВОЕ ТВ
-#EXTGRP:Развлекательные
-rtmp://5.182.231.251//2022
-#EXTINF:-1,ПСИХОЛОГИЯ 21
-#EXTGRP:Развлекательные
-rtmp://5.182.231.251//2025
+https://mhd116.iptv2022.com/p/6K2-7l4SE6dP0YynAnGrPA,1694379612/streaming/drive/324/1/index.m3u8
 #EXTINF:-1,ВОПРОСЫ И ОТВЕТЫ
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2026
+https://mhd116.iptv2022.com/p/6UQ1Ru5fPOloHgbbaw1c8w,1694379615/streaming/voprosi-otveti/324/1/index.m3u8
 #EXTINF:-1,ДОЖДЬ
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2030
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,365 ДНЕЙ
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2040
+http://91.200.160.134:15000/play/a0eo/index.m3u8
 #EXTINF:-1,КТО ЕСТЬ КТО
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2042
+http://91.200.160.134:15000/play/a0ew/index.m3u8
 #EXTINF:-1,FASHION TV HD
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2045
+https://mhd116.iptv2022.com/p/J2nA_1tSi3aLTfuc2FkNNQ,1694379613/streaming/fashion/324/1/index.m3u8
 #EXTINF:-1,LUXURY HD
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2072
+https://mhd116.iptv2022.com/p/OGI9EXw9QrVZhCifkOso1A,1694379615/streaming/luxury/324/1/index.m3u8
 #EXTINF:-1,ВМЕСТЕ-РФ
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2073
+https://mhd116.iptv2022.com/p/sW0inu_JstcrgPiT8oq2Xw,1694379617/streaming/vmeste-rf/324/1/index.m3u8
 #EXTINF:-1,Russian Extreme HD
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2077
+http://195.26.83.96:7029/play/a008
 #EXTINF:-1,ОТКРЫТЫЙ МИР
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2078
+https://mhd116.iptv2022.com/p/HC1WOuI0eCF5i8uSBzsPUw,1694379614/streaming/openmir/324/1/index.m3u8
 #EXTINF:-1,ЗАГОРОДНЫЙ
 #EXTGRP:Развлекательные
-rtmp://5.182.231.251//2099
+https://mhd116.iptv2022.com/p/ZRZ7yIbE2RzS86lGdgfrjA,1694379616/streaming/country/324/1/index.m3u8
 #EXTINF:-1,История
 #EXTGRP:Развлекательные
 http://109.200.135.130:8080/istoriya/index.m3u8
@@ -649,7 +643,7 @@ http://109.200.135.130:8080/ohotnik/index.m3u8
 http://109.200.135.130:8080/teleputeshestviya/index.m3u8
 #EXTINF:-1,Приключения HD
 #EXTGRP:Развлекательные
-http://109.200.135.130:8080/teletravel_hd/index.m3u8
+http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
 #EXTINF:-1,Живая планета
 #EXTGRP:Развлекательные
 http://109.200.135.130:8080/zhivaya-planeta/index.m3u8
