@@ -2,7 +2,7 @@
 
 #EXTINF:-1,Первый канал HD
 #EXTGRP:Эфирные
-http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
+http://188.143.128.24:30002/play/p71/index.m3u8
 #EXTINF:-1,Россия 1
 #EXTGRP:Эфирные
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
@@ -705,7 +705,12 @@ http://109.200.135.130:8080/tochka/index.m3u8
 http://109.200.135.130:8080/nasha_tema_hd/index.m3u8
 
 
-
+#EXTINF:-1,CARTOONITO
+#EXTGRP:Детские
+http://europe3.livetv.az/russia/boomerang_2023/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+#EXTGRP:Детские
+http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
 #EXTINF:-1,Nick Jr
 #EXTGRP:Детские
 http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
@@ -738,19 +743,19 @@ http://31.148.48.15:80/O/index.m3u8?token=test
 http://193.33.240.8:8080/ryzhiy/index.m3u8
 #EXTINF:-1 ,СТС Kids HD
 #EXTGRP:Детские
-http://138.201.67.145:8081/stskids/index.m3u8
+https://mhd116.iptv2022.com/p/P01Lb9nXWxPrP6qlIFt3Qg,1694379611/streaming/stskids/324/1/index.m3u8
 #EXTINF:-1 ,Смайлик ТВ HD
 #EXTGRP:Детские
-rtmp://5.182.231.251//2157
+https://mhd116.iptv2022.com/p/b-P13AYNGdygkEfZG1-SZQ,1694379611/streaming/smile/324/1/index.m3u8
 #EXTINF:-1 ,Солнце
 #EXTGRP:Детские
 http://31.148.48.15:80/Disney_Channel/index.m3u8?token=test
 #EXTINF:-1,Мульт
 #EXTGRP:Детские
 http://31.148.48.15:80/Mult/index.m3u8?token=test
-#EXTINF:-1,Мульт HD
+#EXTINF:-1,Мульт
 #EXTGRP:Детские
-http://arbiter.bolshoe.tv/?path=abr2/tlum_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Duck TV
 #EXTGRP:Детские
 https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
@@ -775,36 +780,32 @@ http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 #EXTINF:-1,Baby Time
 #EXTGRP:Детские
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
-#EXTINF:-1,Мультимузыка
-#EXTGRP:Детские
-http://arbiter.bolshoe.tv/?path=streaming/strana/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Уникум HD
-#EXTGRP:Детские
-http://arbiter.bolshoe.tv/?path=streaming/detckiyHD/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1,Уникум
 #EXTGRP:Детские
-http://arbiter.bolshoe.tv/?path=streaming/forkids/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+https://mhd116.iptv2022.com/p/Dg6WJFRhK2JGuQXCl4ranA,1694379611/streaming/detskiy/324/1/index.m3u8
 #EXTINF:-1,Радость моя
 #EXTGRP:Детские
-http://arbiter.bolshoe.tv/?path=streaming/radostmoya/71/tvrec/chunks.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIzIDc6MDE6NDkgUE0maGFzaF92YWx1ZT0yWTR3QmlwL0haK1lwTmxmWlpYVlhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1,Капитан Фантастика HD
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8#EXTINF:-1,Капитан Фантастика HD
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/PXuxmkXr1hpugTP5LYMxuA,1690059615/streaming/gingerhd/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/B-5XG4nORgUUFm2Hs3KqRw,1694379611/streaming/gingerhd/324/1/index.m3u8
 #EXTINF:-1,Anime Kids
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/7D3f-R7Bei-Od80FW9-SWQ,1690059615/streaming/anime_kids/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/7JomObM8lDVGi_f8-GllMw,1694379611/streaming/anime_kids/324/1/index.m3u8
 #EXTINF:-1,ТипТоп
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/JGaoY1XQQNe4l3doKXXxpw,1690059615/streaming/tiptop/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/OtlrIoaHmGkAWDHenaxieQ,1694379611/streaming/tiptop/324/1/index.m3u8
 #EXTINF:-1,МультСезон
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/DbknlwYwgrrTLNeCb8cFpQ,1690059616/streaming/multsezon/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/2AdvYWtXHH6zEM6V8k2xLg,1694379611/streaming/multsezon/324/1/index.m3u8
 #EXTINF:-1,Детское кино
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/U9_8BSVVl10ZwnUPp8-Kww,1690059616/streaming/det_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/kj1xoYKvk8pPJex4mTJFjQ,1694379611/streaming/det_kino/324/1/index.m3u8
 #EXTINF:-1,Пингвин ЛОЛО
 #EXTGRP:Детские
-https://mhd116.iptv2022.com/p/q39gPmhNoAvrcHn9ruIRIg,1690059616/streaming/pingvin/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/7f58oyGAzLxtC9sh26-5uA,1694379611/streaming/pingvin/324/1/index.m3u8
+#EXTINF:-1,Советские мультфильмы
+#EXTGRP:Детские
+https://mhd116.iptv2022.com/p/0-zEOoBUn9oSMBSpgBmRGA,1694379611/streaming/rusmult/324/1/index.m3u8
 
 
 
