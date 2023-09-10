@@ -1115,10 +1115,6 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
 http://tv.streams.baikal-telecom.net/Viasat_Sport/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс", Viju+ Sport HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2326.png",M-1 Global
-https://sc.id-tv.kz:443/M-1_34_35.m3u8
-#EXTINF:-1 group-title="Спорткомплекс",MySports 1 HD
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2055.png",Viasat Sport HD
@@ -1139,16 +1135,12 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс",MAVTV GLOBAL
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Super Sport
 https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс",TV RI Sport
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Sports Grid
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",One Golf
@@ -1157,10 +1149,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://vhx.imgix.net/mmatv/assets/934c8894-7122-43d5-9e56-5d2d29a98245.jpg",MMA-TV.COM
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=2476
-#EXTINF:-1 group-title="Спорткомплекс",Sharjah Sports TV
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Dubai Sports 2
@@ -1175,7 +1163,74 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/480p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Старт Триумф HD
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
-
+#EXTINF:-1 group-title="Спорткомплекс" tvg-id="megogo-football-1" ,Megogo 1 live HD UA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e7.varcdn.top/mego1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" tvg-id="megogo-football-2" ,Megogo 2 live HD UA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e5.varcdn.top/mego2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" tvg-id="megogo-football-3" ,Megogo 3 live HD UA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e1.varcdn.top/mego3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://varplatform.top/logo/8.png", Setanta Ukraine HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e5.varcdn.top/setantasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img2/6860.png" ,Setanta Ukraine Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e7.varcdn.top/setantaplusukraina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://troya.tv/images/chIcons/828.png?62879e8995c3b",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e7.varcdn.top/setanta1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" ,Setanta Sports 2 HD
+https://tv.movielab.pro/943/video.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://varplatform.top/logo/31.png", Setanta Qazaqstan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e2.varcdn.top/rpl1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://varplatform.top/logo/okko.png",Okko sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0
+https://e7.varcdn.top/1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" ,ELEVEN SPORTS 1 UHD PT
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Eleven Sports 1 HD PL
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Eleven Sports 2 HD PL
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Eleven Sports 3 HD PL
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Eleven Sports 4 HD PL
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Sky Sport UHD
+http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 1
+http://cdn.spmr.tv:8080/sy0x1x/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 2
+http://cdn.spmr.tv:8080/j48ke9/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 3
+http://cdn.spmr.tv:8080/r53dyn/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 4
+http://cdn.spmr.tv:8080/s1wd9a/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 5
+http://cdn.spmr.tv:8080/q8i3e6/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 6
+http://cdn.spmr.tv:8080/gx0a3k/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,DAZN La Liga HD
+http://cdn.spmr.tv:8080/bxw70g/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,DAZN La Liga 2 HD
+http://cdn.spmr.tv:8080/7j8qen/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,Tennis Channel
+http://cdn.spmr.tv:8080/7j8qen/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1 group-title="Спорткомплекс" ,TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" ,TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" ,TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" ,TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" ,TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 group-title="Спорткомплекс" ,Estadio Tnt Sports
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 
