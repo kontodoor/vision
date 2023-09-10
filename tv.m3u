@@ -326,15 +326,13 @@ https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u
 #EXTINF:-1,Fox Life HD
 #EXTGRP:Кино
 https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
-#EXTINF:-1, Мосфильм. Золотая коллекция HD
+#EXTINF:-1,Мосфильм. Золотая Коллекция
 #EXTGRP:Кино
-https://er-cdn.ertelecom.ru/os/video/hls/6b3393654a06f73478240c6c545b879df562a5f35bf312e98739fdb31c3a3bdf744fe68b580c03a0f4d4b76ebaf9295c5c8c898b0f7ea0d377893d75a417bda2581f02f08483552564dad189b1f6e684656c1ec537b687971699b85fd2bf94a9d5da521fc183eea37e1d48fdcc43009751eda4bd44ca52f4cd02d669fa8f017f9c4d4f77b69c4e1c3df8b7b043c1a59564eae88dd8a4201b61f133fd639b8fff5eddb0e106b209d3843ffb9215fdd309db2184615e42e59be2211f36aab2ec198f3d6ff0bc94f95bde4a011aa9b41f1c0cdb426981f70abd1d9799db023f9adc8d81e3801e5b72ccc515c7964897112ed0bafa94c92954ed3a812f11e6a0ed141f433b0d401f147a74bef3ca4613a92df18bb94d3f2c4d7cca504983ac918b3738b62b1008a282276b2dbbe4f476efe2b2c0a66a0bd8bc454a63fb0aeeb72ad58c4b1e487e2618f246f0fa2cdad9ab11/playlist.m3u8
-#EXTINF:-1,Победа
+http://91.200.160.134:15000/play/a0r3/index.m3u8
+#EXTINF:-1,ПОБЕДА
 #EXTGRP:Кино
-http://arbiter.bolshoe.tv/?path=abr1/pobeda/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjMgNjo1ODoxMSBBTSZoYXNoX3ZhbHVlPS9KYlRBQ3NBbWt4RUhsbk15anpKbGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1,ПОБЕДА HD
-#EXTGRP:Кино
-http://31.134.132.245:8080/pobeda_hd/index.m3u8
+http://91.197.104.34:8080/Pobeda/video.m3u8
+
 
 
 #EXTINF:-1,Discovery Channel
@@ -343,9 +341,9 @@ http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1,Discovery Science
 #EXTGRP:Познавательные
 http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
-#EXTINF:-1,Investigation Discovery
+#EXTINF:-1,Investigation Discovery HD
 #EXTGRP:Познавательные
-http://194.114.144.244:8001/play/id
+http://il2.ottstream.live:17070/C123/index.m3u8?token=NjkxMzQ1NDk1NCsxNjk0Mjg1ODcyKzE3MDQwMzU3MjQrMSsrMCszK0wrMytDNzc5K2IyZTQ5MzBjYTNlYzRkZTBlYTBlMDMzNjE3OGRhZjkw
 #EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
 http://91.233.215.250:7272/07pqiSOeAdHpghx
@@ -370,15 +368,12 @@ http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
 #EXTINF:-1,History HD
 #EXTGRP:Познавательные
 http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
-#EXTINF:-1,DTX
-#EXTGRP:Познавательные
-http://194.114.144.244:8002/play/a0vo
 #EXTINF:-1,Galaxy
 #EXTGRP:Познавательные
 http://146.158.0.56/Galaxy/mono.m3u8
 #EXTINF:-1 ,Nano TV HD
 #EXTGRP:Познавательные
-http://okkotv-nano.cdnvideo.ru/Nano_HD_poz/tracks-v1a1/mono.m3u8
+http://193.33.88.172/nano_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ocean TV
 #EXTGRP:Познавательные
 http://146.158.0.56/OceanTV/mono.m3u8
@@ -423,16 +418,10 @@ https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:-1 ,Моя Планета
 #EXTGRP:Познавательные
-http://31.134.132.245:8080/planeta_hd/index.m3u8
+http://91.200.160.134:15000/play/a0o8/index.m3u8
 #EXTINF:-1, Travel+Adventure
 #EXTGRP:Познавательные
 https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Travel+Adventure HD
-#EXTGRP:Познавательные
-http://95.181.17.26/dvr01/mobile1/TravAdHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjMgNjo1ODoxMSBBTSZoYXNoX3ZhbHVlPS9KYlRBQ3NBbWt4RUhsbk15anpKbGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1,HD Life
-#EXTGRP:Познавательные
-http://arbiter.bolshoe.tv/?path=abr2/hdlife/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjMgNjo1ODoxMSBBTSZoYXNoX3ZhbHVlPS9KYlRBQ3NBbWt4RUhsbk15anpKbGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1,HD Life
 #EXTGRP:Познавательные
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
