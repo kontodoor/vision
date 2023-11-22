@@ -1,11 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:-1,Первый канал
-#EXTGRP:Эфирные
-http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
+
 #EXTINF:-1,Первый канал HD
 #EXTGRP:Эфирные
-http://194.26.229.213/Perviy_HD/index.m3u8
+http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Россия 1
 #EXTGRP:Эфирные
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
@@ -98,7 +96,7 @@ https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1,Известия
 #EXTGRP:Эфирные
-https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
 
 
 
@@ -106,22 +104,34 @@ https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 
 #EXTINF:-1,Кинокомедия
 #EXTGRP:Кино
-http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+http://95.217.196.109:8081/russia/kinokomediya/chunks.m3u8
 #EXTINF:-1,Кинохит
 #EXTGRP:Кино
-http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+http://95.217.196.109:8081/russia/kinohit/chunks.m3u8
 #EXTINF:-1,Киномикс
 #EXTGRP:Кино
-http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+http://91.220.135.165:81/22/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1,Кинопремьера HD
 #EXTGRP:Кино
-http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Киносемья
 #EXTGRP:Кино
-http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+http://95.217.196.109:8081/russia/kinosemya/chunks.m3u8
 #EXTINF:-1,Киносвидание
 #EXTGRP:Кино
-http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+http://95.217.196.109:8081/russia/kinosvidanie/chunks.m3u8
+#EXTINF:-1,Киносерия
+#EXTGRP:Кино
+https://tbs01-edge11.itdc.ge/kinoseria/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кино Боевик
+#EXTGRP:Кино
+https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
+#EXTINF:-1,Мировое кино
+#EXTGRP:Кино
+https://ucdn.beetv.kz/btv/live/hls/000008488.m3u8
+#EXTINF:-1,Премиум кино
+#EXTGRP:Кино
+https://ucdn.beetv.kz/btv/live/hls/000008491.m3u8
 #EXTINF:-1, Amedia 1
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/A1_HD/480p.m3u8
@@ -271,7 +281,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1,Иллюзион +
 #EXTGRP:Кино
-https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1,Эхо ТВ
 #EXTGRP:Кино
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
