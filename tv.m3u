@@ -102,13 +102,13 @@ https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
 
 #EXTINF:-1,РОДНОЕ КИНО
 #EXTGRP:Кино
-http://31.40.155.227:9595/play/rodnoe_kino
+http://iptv.mega.net.ru:8888/Rodnoe_kino/index.m3u8
 #EXTINF:-1,ИНДИЯ
 #EXTGRP:Кино
 http://iptv.mega.net.ru:8888/Zee_TV/index.m3u8
 #EXTINF:-1,Bollywood HD
 #EXTGRP:Кино
-http://31.40.155.227:9595/play/Bollywood_HD
+http://iptv.mega.net.ru:8888/Bollywood_HD/index.m3u8
 #EXTINF:-1,ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино
 https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
@@ -307,9 +307,6 @@ http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1,Эхо ТВ
 #EXTGRP:Кино
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1,ВидеокассетА
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 ,НСТ
 #EXTGRP:Кино
 https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
@@ -334,9 +331,6 @@ https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/480p.m3u8
 #EXTINF:-1 ,Феникс плюс кино HD
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
-#EXTINF:-1,Видеокассета
-#EXTGRP:Кино
-https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1,Детское кино International
 #EXTGRP:Кино
 https://v2.catcast.tv/content/38720/index.m3u8
