@@ -704,11 +704,14 @@ http://109.200.135.130:8080/tochka/index.m3u8
 http://109.200.135.130:8080/nasha_tema_hd/index.m3u8
 
 
-#EXTINF:-1 group-title="Дети",Nick Toons
+#EXTINF:-1,Nick Toons
+#EXTGRP:Детские
 http://91.210.251.166:4886/udp/239.0.2.10:4000
-#EXTINF:-1 group-title="Дети",Nick Jr HD
+#EXTINF:-1,Nick Jr HD
+#EXTGRP:Детские
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
-#EXTINF:-1 group-title="Дети",Cartoon Network 
+#EXTINF:-1,Cartoon Network
+#EXTGRP:Детские
 http://89.254.128.5:22280/cartoon_network/video.m3u8
 #EXTINF:-1 ,Карусель
 #EXTGRP:Детские
