@@ -829,12 +829,6 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",CVR
-https://dlive.tv/hls/live/cybervybezradio.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://static.wixstatic.com/media/8e4524_91096f29144a4bafae0648b2426c2861~mv2.gif",Happy Radio
-https://dlive.tv/hls/live/happyradio.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://ritsatv.ru/files/poster/medium/700805.jpg",VIVA Russia
-https://dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/5475.png",Stingray Classic Rock HD
 https://stirr.ott-channels.stingray.com/101/master.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/5477.png",Stingray Alternative HD
