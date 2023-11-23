@@ -465,12 +465,6 @@ https://okkotv-live.cdnvideo.ru/channel/Da_Vinci/480p.m3u8
 #EXTINF:-1,E TV HD
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Extreme Sports
-#EXTGRP:Развлекательные
-http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
-#EXTINF:-1,Fashion & Lifestyle HD
-#EXTGRP:Развлекательные
-http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 #EXTINF:-1,Fashion Box
 #EXTGRP:Развлекательные
 http://146.158.0.56/FashionBox/mono.m3u8
@@ -510,15 +504,6 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1,WFC TV International HD
 #EXTGRP:Развлекательные
 http://live-3.otcnet.ru/wfcint/index.m3u8
-#EXTINF:-1,Авто 24
-#EXTGRP:Развлекательные
-https://sc.id-tv.kz/Avto24_36_37.m3u8
-#EXTINF:-1,Бобер
-#EXTGRP:Развлекательные
-https://sc.id-tv.kz/bober_34_35.m3u8
-#EXTINF:-1,Бокс ТВ
-#EXTGRP:Развлекательные
-https://sc.id-tv.kz/BoksTV_36_37.m3u8
 #EXTINF:-1,Большая Азия
 #EXTGRP:Развлекательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
@@ -531,27 +516,9 @@ https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1,ДИКИЙ
 #EXTGRP:Развлекательные
 http://217.107.34.114:8007/playlist.m3u8
-#EXTINF:-1,ОХОТА И РЫБАЛКА
-#EXTGRP:Развлекательные
-http://46.174.83.66/Ohota_i_rybalka/index.m3u8
-#EXTINF:-1,ДИКАЯ ОХОТА HD
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/I24UPsRVhIrX5EVtbliE3g,1694379612/streaming/ohotahd/324/1/index.m3u8
-#EXTINF:-1,ДИКАЯ РЫБАЛКА HD
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/adA0MYcyiZ5VOikRwPaNbA,1694379612/streaming/ribalkahd/324/1/index.m3u8
 #EXTINF:-1,ДОМАШНИЕ ЖИВОТНЫЕ
 #EXTGRP:Развлекательные
 http://45.144.31.195:8013/playlist.m3u8
-#EXTINF:-1,ЗООПАРК
-#EXTGRP:Развлекательные
-http://91.200.160.134:15000/play/a0of/index.m3u8
-#EXTINF:-1,УСАДЬБА
-#EXTGRP:Развлекательные
-http://91.200.160.134:15000/play/a0c0/index.m3u8
-#EXTINF:-1,ЗДОРОВОЕ ТВ
-#EXTGRP:Развлекательные
-http://46.174.83.66/Zdorovoe_TV/index.m3u8
 #EXTINF:-1,Загородная Жизнь
 #EXTGRP:Развлекательные
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
@@ -564,15 +531,6 @@ http://146.158.0.56/KuhnyaTV/mono.m3u8
 #EXTINF:-1,Моторспорт ТВ
 #EXTGRP:Развлекательные
 http://146.158.0.56/Motosport/mono.m3u8
-#EXTINF:-1,Моя Планета HD
-#EXTGRP:Развлекательные
-http://193.33.240.8:8080/planeta_hd/index.m3u8
-#EXTINF:-1,Поехали!
-#EXTGRP:Развлекательные
-https://sc.id-tv.kz/poehali_34_35.m3u8
-#EXTINF:-1,Приключения HD
-#EXTGRP:Развлекательные
-http://193.33.240.8:8080/teletravel_hd/index.m3u8
 #EXTINF:-1,Продвижение
 #EXTGRP:Развлекательные
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
@@ -612,96 +570,10 @@ https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3552.png",Удар
 #EXTGRP:Развлекательные
 https://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1,ДРАЙВ
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/6K2-7l4SE6dP0YynAnGrPA,1694379612/streaming/drive/324/1/index.m3u8
-#EXTINF:-1,ВОПРОСЫ И ОТВЕТЫ
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/6UQ1Ru5fPOloHgbbaw1c8w,1694379615/streaming/voprosi-otveti/324/1/index.m3u8
-#EXTINF:-1,ДОЖДЬ
-#EXTGRP:Развлекательные
-http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,365 ДНЕЙ
-#EXTGRP:Развлекательные
-http://91.200.160.134:15000/play/a0eo/index.m3u8
-#EXTINF:-1,КТО ЕСТЬ КТО
-#EXTGRP:Развлекательные
-http://91.200.160.134:15000/play/a0ew/index.m3u8
-#EXTINF:-1,FASHION TV HD
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/J2nA_1tSi3aLTfuc2FkNNQ,1694379613/streaming/fashion/324/1/index.m3u8
-#EXTINF:-1,LUXURY HD
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/OGI9EXw9QrVZhCifkOso1A,1694379615/streaming/luxury/324/1/index.m3u8
-#EXTINF:-1,ВМЕСТЕ-РФ
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/sW0inu_JstcrgPiT8oq2Xw,1694379617/streaming/vmeste-rf/324/1/index.m3u8
 #EXTINF:-1,Russian Extreme HD
 #EXTGRP:Развлекательные
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1,ОТКРЫТЫЙ МИР
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/HC1WOuI0eCF5i8uSBzsPUw,1694379614/streaming/openmir/324/1/index.m3u8
-#EXTINF:-1,ЗАГОРОДНЫЙ
-#EXTGRP:Развлекательные
-https://mhd116.iptv2022.com/p/ZRZ7yIbE2RzS86lGdgfrjA,1694379616/streaming/country/324/1/index.m3u8
-#EXTINF:-1,История
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/istoriya/index.m3u8
-#EXTINF:-1,Живая природа HD
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/jivaya_priroda_hd/index.m3u8
-#EXTINF:-1,Охотник и рыболов HD
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/ohot_i_rybolov_hd/index.m3u8
-#EXTINF:-1,Рыболов
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/ohotnik/index.m3u8
-#EXTINF:-1,Телепутешествия
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/teleputeshestviya/index.m3u8
-#EXTINF:-1,Приключения HD
-#EXTGRP:Развлекательные
-http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
-#EXTINF:-1,Живая планета
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/zhivaya-planeta/index.m3u8
-#EXTINF:-1,Gags network
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/raz-tv/index.m3u8
-#EXTINF:-1,Кто есть кто
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/kto-est-kto/index.m3u8
-#EXTINF:-1,Кухня ТВ
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/kuhnya/index.m3u8
-#EXTINF:-1,365 Дней
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/365_dnej/index.m3u8
-#EXTINF:-1,Авто плюс
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/avto_plus/index.m3u8
-#EXTINF:-1,Русский экстрим HD
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/rus-extrim-hd/index.m3u8
-#EXTINF:-1,Русский экстрим
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/rus-extrim/index.m3u8
-#EXTINF:-1,Поехали!
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/Poehali/index.m3u8
-#EXTINF:-1,Просвещение
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/prosveshenie/index.m3u8
-#EXTINF:-1,Теледом HD
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/teledom_hd/index.m3u8
-#EXTINF:-1,Точка тв
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/tochka/index.m3u8
-#EXTINF:-1,Наша тема HD
-#EXTGRP:Развлекательные
-http://109.200.135.130:8080/nasha_tema_hd/index.m3u8
+
 
 
 #EXTINF:-1,Nick Toons
@@ -758,9 +630,6 @@ https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 #EXTINF:-1,Радость моя
 #EXTGRP:Детские
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1,Капитан Фантастика HD
-#EXTGRP:Детские
-https://mhd116.iptv2022.com/p/B-5XG4nORgUUFm2Hs3KqRw,1694379611/streaming/gingerhd/324/1/index.m3u8
 #EXTINF:-1,ANI
 #EXTGRP:Детские
 http://91.220.135.165:81/43/tracks-v1a1v1/playlist.m3u8
@@ -1078,20 +947,12 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2043.png",Матч! Планета
-https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2042.png",МАТЧ! СТРАНА
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2530.png",СТАРТ HD
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2052.png",Eurosport 1
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://pl.ottglanz.tv/icon/6904.png",Eurosport 2
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс", Viju+ Sport
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс", Viju+ Sport HD
-http://tv.streams.baikal-telecom.net/Viasat_Sport/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс", Viju+ Sport HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Turkmen Sport
@@ -1100,14 +961,8 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2055.png",Viasat Sport HD
 https://livetv.mylifeisgood.net.ru/channels/viasatsporthd.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2285.png",Бокс ТВ
-https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2048.png",KHL
-https://sc.id-tv.kz:443/KHL_36_37.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://epg.it999.ru/img/2048.png",KHL
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://pl.ottglanz.tv/icon/9596.png",KHL Prime
-https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="http://pl.ottglanz.tv/icon/9596.png",KHL Prime
 http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Конный мир HD
@@ -1128,8 +983,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
-#EXTINF:-1 group-title="Спорткомплекс",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Dubai Sports 3
@@ -1142,8 +995,6 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/480p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс",Старт Триумф HD
 http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
-#EXTINF:-1 group-title="Спорткомплекс" ,Setanta Sports 2 HD
-https://tv.movielab.pro/943/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" ,ELEVEN SPORTS 1 UHD PT
 http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорткомплекс" ,Eleven Sports 1 HD PL
@@ -1154,8 +1005,6 @@ http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=5W1ZK8D4AX
 http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорткомплекс" ,Eleven Sports 4 HD PL
 http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=5W1ZK8D4AX
-#EXTINF:-1 group-title="Спорткомплекс" ,Sky Sport UHD
-http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 1
 http://cdn.spmr.tv:8080/sy0x1x/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорткомплекс" ,Polsat Sport Premium 2
@@ -1170,10 +1019,6 @@ http://cdn.spmr.tv:8080/q8i3e6/video.m3u8?token=5W1ZK8D4AX
 http://cdn.spmr.tv:8080/gx0a3k/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорткомплекс" ,DAZN La Liga HD
 http://cdn.spmr.tv:8080/bxw70g/video.m3u8?token=5W1ZK8D4AX
-#EXTINF:-1 group-title="Спорткомплекс" ,DAZN La Liga 2 HD
-http://cdn.spmr.tv:8080/7j8qen/video.m3u8?token=5W1ZK8D4AX
-#EXTINF:-1 group-title="Спорткомплекс" ,Tennis Channel
-http://cdn.spmr.tv:8080/7j8qen/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1 group-title="Спорткомплекс" ,TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="Спорткомплекс" ,TNT Sports 2
@@ -2880,10 +2725,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=4f70340432c9d26003ff4b0afbd4d285afd
 
 
 
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/interua.png",Інтер
-http://portal.ott.pink/watch/7316/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/ictv_hd_ua.png",ICTV HD
-http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://epg.it999.ru/img/2227.png",ТРК Київ
 http://portal.ott.pink/watch/7410/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="OTT Pink" tvg-logo="http://ottpink.network/picons/kanal24hd.png",Канал 24 HD
@@ -2938,14 +2779,10 @@ http://portal.ott.pink/watch/121/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B35
 
 
 
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
-https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://assets.limehd.tv/uploads/channel/10272/thumb_915e2961accb5f2736151caccb4c1ecc.png",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
 #EXTINF:-1 group-title="С сайтов",Simon
 https://hls.simon.ua/live-HD/live/chunks_dvr.m3u8
-#EXTINF:-1 group-title="С сайтов" tvg-logo="http://tvpro-online.ru/images/logo.png",TV Pro
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://i.postimg.cc/nLwPZgX2/image.jpg",ТСВ
 https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:-1 group-title="С сайтов" tvg-logo="https://tvmtm.online/wp-content/themes/tv-z/img/mtm-logo.png",МТМ
