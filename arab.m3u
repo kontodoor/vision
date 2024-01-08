@@ -1,0 +1,643 @@
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",Qəbələ TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",ARB
+http://109.205.166.68/server124/arb/index.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",Az News TV1
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",Az Star TV HD
+http://live.livestreamtv.ca/azstar/azstar/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",AzTV1
+http://109.205.166.68/server124/aztv/index.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",Baku TV Az
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",Hadi TV Az
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",Idman TV1
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿" tvg-logo="http://epg.it999.ru/img/2557.png" ,Medeniyyet
+http://109.205.166.68/server124/medeniyyet_tv/index.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿" tvg-logo="http://epg.it999.ru/img/2553.png",Space TV
+http://109.205.166.68/server124/space_tv/index.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿",STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан 🇦🇿" tvg-logo="http://epg.it999.ru/img/2558.png",Xazar TV
+http://109.205.166.68/server124/xazar_tv/index.m3u8
+
+#EXTINF:-1 group-title="Албания 🇦🇱",Peace TV Albanian
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",AlbUK TV HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Muzikë
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Shqip
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 1
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 2
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 24
+http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH 3
+http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Film
+http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",TV Apollon
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 group-title="Албания 🇦🇱",TV 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 group-title="Албания 🇦🇱",News 24
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Алжир 🇩🇿",Alaraby TV HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Алжир 🇩🇿",Samira TV
+https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_8.m3u8
+#EXTINF:-1 group-title="Алжир 🇩🇿",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="Алжир 🇩🇿",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/3Cwn1Zx/SGN-04-13-2022-1649875763996.png" ,Song TV
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/Fmr4gG9/SGN-12-18-2021-1639837555217.png" ,Azatutyun TV HD 
+http://timeshift.arpinet.am/244/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" ,USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/7Xrc4n9/SGN-10-20-2021-1634751061579.png" ,Kentron TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/YpGS1pS/SGN-04-13-2022-1649796240900.png" ,Armenia tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/vLVfQ1y/SGN-03-25-2022-1648158264793.png",H1
+http://timeshift.arpinet.am/1/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/7NbwNZh/SGN-12-18-2021-1639835945728.png",H1 Lurer
+https://amtv1-2.livestreamingcdn.com/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/H2_road_%28Armenia%29.png",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s2/m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/G9nqN7f/SGN-05-08-2022-1652038669927.png",Armenia Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/zm0q3pj/SGN-05-09-2022-1652040188384.png",Armenia Հայ Կինո
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/ZLs9XPh/SGN-05-09-2022-1652040851687.png",Armenia Ջան TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/sHJ62mP/SGN-05-09-2022-1652041186732.png",Armenia Քոմեդի
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/6Y1DQPG/SGN-05-09-2022-1652042036384.png",Armenia Տուն Թունիկ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/7VgFwqx/SGN-05-09-2022-1652042732368.png",Armenia Սինեմաքս
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Թավա TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV ԽաղԱլիք
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Հայ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Ֆիլմզոն
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/yigw9dr.png",5-րդ ալիք
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png",21TV
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/MPm1B49/SGN-03-26-2022-1648281672873.png",Erkir media
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/2KR5mvs/SGN-03-08-2022-1646732313111.png",Shoxakat
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/cNd3616/SGN-03-08-2022-1646748957859.png",5 plus
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/Tmw7Kgm/SGN-12-18-2021-1639838992456.png",Noor tv USA
+https://streamer1.connectto.com/Noor_275/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png",Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/3vQVwUV.jpg",Amga TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲",Radio Van 103.0 FM Yerevan
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/fYrv8Kw/SGN-03-25-2022-1648156980157.png",AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png",Շանթ
+http://5.188.172.179/Shant/index.m3u8
+
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Kayhan Afghan
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Pamir TV
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Afghanistan International TV
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫" tvg-logo="https://i.imgur.com/x8mlbJM.jpg",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫" tvg-logo="https://i.imgur.com/8VbuI9n.png",Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫" tvg-logo="https://i.imgur.com/8VbuI9n.png",Ariana TV
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫" tvg-logo="https://i.imgur.com/k2QKhRK.png",Ariana TV Int'l
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",ATN USA
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Dubai One (English)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Ganje Hozoor
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫" tvg-logo="https://i.imgur.com/XpR1VvZ.png",Kayhan TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Mohabat TV
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Payame Afghan
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 group-title="Афганистан 🇦🇫",Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+
+#EXTINF:-1 group-title="Египет 🇪🇬",AL HORREYA TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬" tvg-logo="https://i.imgur.com/9HocMyE.jpg",Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬" tvg-logo="http://elsharq.tv/img/elsharq.png",Al Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬" tvg-logo="https://i.imgur.com/SrvZduL.jpg",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬" tvg-logo="https://i.imgur.com/7dQmaj6.png",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬" tvg-logo="https://i.imgur.com/K0MQiNB.png",Mekameleen TV
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",Coptic TV (720p)
+https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",CYC (Christan Youth Channel) HD
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",Elbeshara Tv
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",ATVSat
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",Rotana Cinema Egypt
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",TEN
+https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",The Kingdom Sat
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/kingdomsatpublish/kingdomsat_source/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Египет 🇪🇬",Watan TV
+https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Израиль 🇮🇱",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",Hala TV
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",Israel Pars TV
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",Kan 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",Kan Educational
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",The Shopping Channel
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",I24 News Arabic
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",Musayof
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Индия 🇮🇳",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Asianet News Tamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Asianet News Kannada
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Artist Aloud
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Gaunda Punjab TV
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Khabrain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Pulari TV HD
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Kite Victers
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Namdhari TV
+https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Weather Spy India
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Jonack TV
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",The Pet Collective India
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Sardari TV HD
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Shubhsandesh
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 group-title="Индия 🇮🇳",Tamil Vision International
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+
+#EXTINF:-1 group-title="Иордания 🇯🇴" tvg-logo="https://i.imgur.com/6njRt6c.png",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:-1 group-title="Иордания 🇯🇴",Ro'ya TV HD
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 group-title="Иордания 🇯🇴",AL HADATH
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alhadath_1080p_chunks.m3u8
+#EXTINF:-1 group-title="Иордания 🇯🇴",Alerth Alnabawi Channel
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 group-title="Иордания 🇯🇴",Alhaqeqa Aldawlia
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 group-title="Иордания 🇯🇴",Jawhara FM
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Иордания 🇯🇴",Jordan Satellite Channel
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 group-title="Иордания 🇯🇴",Kaifa TV
+http://82.212.74.2:8000/live/7311.m3u8
+
+#EXTINF:-1 group-title="Ирак 🇮🇶",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Dijlah
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Imam Hussein TV 1 Farsi
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Imam Hussein TV 2 Arabic
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Imam Hussein TV 4 Urdu
+https://ur.imamhusseintv.com/live/ih4.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Ирак 🇮🇶",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Иран 🇮🇷",GANJE HOZOOR
+https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",IMAM HUSSEIN TV
+https://mn-nl.mncdn.com/ihtv1/ihtv1_sd.smil/chunklist_b208000.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",IRAN INTERNATIONAL
+https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",INTV Simaye Azadi HD
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Mohabat TV
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Mohabat TV
+https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Omid Javedan
+https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Payvand TV
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Radio Javan TV HD
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b2892000.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Al Alam
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Hasti TV
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",ICnet 2 Academic
+https://60ba7ef02e687.streamlock.net/ICNET2/ngrp:icnet_all/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Manoto TV
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Marjaeyat
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Parnian TV
+https://live2.parnian.tv/hls/.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Persiana Plus
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",Press TV French
+https://live1.presstv.ir/live/presstvfr/index.m3u8
+#EXTINF:-1 group-title="Иран 🇮🇷",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Ливан 🇱🇧",TAHA TV
+https://media2.livaat.com/TAHA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ливан 🇱🇧",Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ливан 🇱🇧",CharityTV HD
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 group-title="Ливан 🇱🇧",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 group-title="Ливан 🇱🇧",Nabaa TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 group-title="Объединенные Арабские Эмираты 🇦🇪",Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+
+#EXTINF:-1 group-title="Оман 🇴🇲" tvg-logo="https://i.imgur.com/onPpSSC.png",Al-Istiqama
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
+
+#EXTINF:-1 group-title="Пакистан 🇵🇰",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:-1 group-title="Пакистан 🇵🇰",Madani Channel Urdu
+https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
+#EXTINF:-1 group-title="Пакистан 🇵🇰",98 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Палестина 🇵🇸",Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Палестина 🇵🇸",MusawaChannel
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+
+#EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",AL HOKAIR Group TV
+http://82.212.74.3:8000/live/7513.m3u8
+#EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",Al Khalij
+http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",Asharq HD
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
+#EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",Beity
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",EN TV
+http://82.212.74.100:8000/live/8130.m3u8
+#EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 group-title="Саудовская Аравия 🇸🇦",Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 group-title="Туркменистан 🇹🇲",Altyn Asyr
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан 🇹🇲",Asgabat
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан 🇹🇲",Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан 🇹🇲",Turkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан 🇹🇲",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан 🇹🇲",Turkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан 🇹🇲",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+
+#EXTINF:-1 group-title="Турция 🇹🇷",AA Live
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",AGRO TV TR
+https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",ALANYA POSTA TV
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Alanya TV
+http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",ANGARA TV HD
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Anka
+http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Berat TV
+https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",BESiKTAS WEB TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Briç ve Satranç TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",CAY TV
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",CEKMEKOY BELEDiYE TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",CiFTCi TV YEDEK2
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",ERCiS TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",ERT ŞAH TV
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",ERT Şah TV Erzincan
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Finest TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",FORTUNA TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",GALATASARAY TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Gonca TV
+http://stream.taksimbilisim.com:1935/tuncerciftci/smil:tuncerciftci.smil/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",GURBET 24 TV
+http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Haber 61 TV
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",IBB TV
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",iCEL TV YEDEK
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",KANAL 33
+http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",KANAL 56
+https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",KANAL 7 AVRUPA
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",KANAL URFA
+http://stream.taksimbilisim.com:1935/kanalurfa/smil:kanalurfa.smil/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",KRAL TV
+http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",LALEGÜL TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Luys TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",MARMARiS TV WEB TV
+https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",NUMBER ONE TÜRK DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",OGUN TV
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",ORDU BEL TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER TÜRK AKUSTIK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER TÜRK EN IYILER
+http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER TÜRK HD
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER TÜRK SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER TÜRK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",REHBER TV
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",SARIYER TV iST
+http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",SiNOP YILDIZ TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TGRT BELGESEL
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TRT 2
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TRT BELGESEL
+http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TRT DİYANET
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TURHAL WEB TV
+http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",Türk Haber
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TÜRKMEN SPOR
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TV 1 Kayseri
+https://edge1.socialsmart.tv/tv1/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TV 264
+https://mc1.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TV 41 YEDEK
+http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TV 52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",UR FANATiK TV YEDEK
+https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",USKUDAR UNiV.TV
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",ÜÜ TV Üsküdar Üniversitesi TV
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",VIYANA TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",WOMAN KADIN TV
+https://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",YUSUFELi BELEDiYE TV
+http://85.10.207.237/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist_b1596000.m3u8
