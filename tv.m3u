@@ -93,273 +93,81 @@ https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 
 
-#EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV HD
-http://158.101.214.187:8080/channel/n43c827e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV 1 HD
-http://158.101.214.187:8080/channel/23b5ca9d/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV 2 HD
-http://158.101.214.187:8080/channel/23b5ca9e/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV 3 HD
-http://158.101.214.187:8080/channel/23b5ca9f/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="СПОРТ ⚽",UPL.TV 4 HD
-http://158.101.214.187:8080/channel/23b5caa0/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 1 HD
-http://lb.homeiptv.org/lb0/Online_Sport_1_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 2 HD
-http://lb.homeiptv.org/lb0/Online_Sport_2_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 3 HD
-http://lb.homeiptv.org/lb0/Online_Sport_3_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 4 HD
-http://lb.homeiptv.org/lb0/Online_Sport_4_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 5 HD
-http://lb.homeiptv.org/lb0/Online_Sport_5_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 6 HD
-http://lb.homeiptv.org/lb0/Online_Sport_6_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 7 HD
-http://lb.homeiptv.org/lb0/Online_Sport_7_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 8 HD
-http://lb.homeiptv.org/lb0/Online_Sport_8_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 9 HD
-http://lb.homeiptv.org/lb0/Online_Sport_9_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 10 HD
-http://lb.homeiptv.org/lb0/Online_Sport_10_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 11 HD
-http://lb.homeiptv.org/lb0/Online_Sport_11_HD/video.m3u8?token=rostik-tv
-#EXTINF:-1 group-title="СПОРТ ⚽",Online Sport 12 HD
-http://lb.homeiptv.org/lb0/Online_Sport_12_HD/video.m3u8?token=rostik-tv
+
 #EXTINF:-1 group-title="СПОРТ ⚽",FightBox HD
 https://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Trace Sport HD
-http://78.26.128.59:9876/play/252/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Okko Sport HD
-http://90.156.210.69:8080/okka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",OLSIB IMPACT! WRESTLING HD
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Xsport+
-http://xsport-hls1.cosmonova.net.ua/hls/xsport_ua_hi/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",XSport+ HD
 http://de.kineskop.club/site2/1418/1009756_5b94478c60d3be67_0_0_fs2.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Xsport 
 http://de.kineskop.club/site2/371/1009756_4d769fafe4ae9f48_0_0_fs.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Спортивный
 http://de.kineskop.club/site2/1215/1009756_dfc90acb082128e4_0_0_fs2.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Спортивный HD
-https://mhd116.iptv2022.com/p/46o-lLgV-vBa4ETiabwq3A,1710223240/streaming/sportivniyhd/324/1/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Футбольный
-https://mhd116.iptv2022.com/p/oNhY4MFBVjiP4h9JDQHX6A,1710223241/streaming/footbolniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Мир Баскетбола
 http://92.242.110.52:9835/udp/238.1.1.17:1234
 #EXTINF:-1 group-title="СПОРТ ⚽",Мир Баскетбола
 http://de.kineskop.club/site2/739/1009756_f9209d38604d2ccb_0_0_fs2.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Удар HD
 http://de.kineskop.club/site2/827/1009756_91b1227b0fa8eb02_0_0_fs2.m3u8
-#EXTINF:0 tvg-id="ufc" tvg-logo="https://iptvx.one/icn/ufc.png" group-title="СПОРТ ⚽",Удар FHD
-http://109.248.236.21:4433/udp/238.1.1.144:1234
-#EXTINF:-1 group-title="СПОРТ ⚽",Triton Fight
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="СПОРТ ⚽",Bellator MMA HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="СПОРТ ⚽",GLORY KICKBOXING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="СПОРТ ⚽",FITE
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",MMA Future
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VX0VZ8RN1Z6LOX4QG1OZ/hls3/now_-1m_15s/m.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Tennis 1 HD
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Tennis 2 HD
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports Ukraine HD
-http://78.26.128.59:9876/play/161/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports+ Ukraine HD
-http://78.26.128.59:9876/play/4/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports + Ukraine FHD
 http://de.kineskop.club/site2/885/1009756_e612aeddb686d9d9_0_0_fs2.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1
 http://de.kineskop.club/site2/1114/1009756_a1754045789b3a24_0_0_fs2.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 HD
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 FHD
 http://de.kineskop.club/site2/513/1009756_c9587bb2772e68db_0_0_fs.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2
 http://de.kineskop.club/site2/1115/1009756_d5e65ee8891239c7_0_0_fs2.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2 HD
 #EXTINF:-1 group-title="СПОРТ ⚽",Setanta Qazaqstan HD
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Qazaqstan
-https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",QSPORT  HD
-http://88.135.128.20:7272/bFlmfsIl2ohurGj
-#EXTINF:-1 group-title="СПОРТ ⚽",QSPORT
-League HD
-http://109.248.236.21:4433/udp/238.1.1.143:1234
-#EXTINF:-1 group-title="СПОРТ ⚽",Q Sport Arena HD
-http://109.248.236.21:4433/udp/238.1.1.142:1234
-#EXTINF:-1 group-title="СПОРТ ⚽",Q Sport Arena FHD
-http://88.135.128.20:7272/bFlmfsIl2ohurGj
 #EXTINF:-1 group-title="СПОРТ ⚽",Старт 
 http://109.248.236.21:4433/udp/238.1.1.78:1234
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 1 HD
-http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 http://ip1.orgip.net/200/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 1 FHD
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 2
-http://109.248.236.21:4433/udp/238.1.1.115:1234
 #EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 2 HD
 http://ip1.orgip.net/201/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 2 FHD
-http://94.232.104.237:8000/play/062/index.m3u8
 #EXTINF:-1 tvg-id="eurosport-4k" catchup="<" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="СПОРТ ⚽",Eurosport HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",KHL Prime HD
-http://109.248.236.21:4433/udp/238.1.1.36:1234
-#EXTINF:-1 group-title="СПОРТ ⚽",Хоккейный HD
-http://94.232.104.237:8000/play/122/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Спорт 1 Baltic
-http://78.26.128.59:9876/play/519/index.m3u8
-#EXTINF:-1 tvg-id="3317"tvg-logo="http://epg.it999.ru/img/3317.png"group-title="СПОРТ ⚽",Спорт-1
-http://78.26.128.59:9876/play/516/index.m3u8
-#EXTINF:-1 tvg-id="3318"tvg-logo="http://epg.it999.ru/img/3318.png"group-title="СПОРТ ⚽",Спорт-2 
-http://78.26.128.59:9876/play/517/index.m3u8
 #EXTINF:-1 tvg-id="3318"tvg-logo="http://epg.it999.ru/img/3318.png"group-title="СПОРТ ⚽",Спорт 3 HD
 http://ott.watch/stream/DSTD43DQYR/393.m3u8
-#EXTINF:-1 tvg-id="3318"tvg-logo="http://epg.it999.ru/img/3318.png"group-title="СПОРТ ⚽",Спорт 4 
-http://88.135.128.20:7272/Wetd63YgcVe23Jk
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 1 HD 
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 1 HD 50
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 2
-https://kinescope.io/5cuYjysVnE1GWyZm2uTbRx/master.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 2 HD 50
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 3 HD 50
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Игра
-http://94.232.104.237:8000/play/108/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Арена HD
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Страна
-http://94.232.104.237:8000/play/059/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Планета
-http://109.248.236.21:4433/udp/238.1.1.39:1234
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Ультра 4K
-http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! FHD
-http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! HD
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Премьер FHD
 http://92.242.110.52:9835/udp/238.1.2.3:1234
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Премьер HD
-http://109.248.236.21:4433/udp/238.1.1.14:1234
 http://cdn01.ath.cx:2500/live/matchpremierhd50fps?token=510f8e0f42ba98ca9127a58d72addafd
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Премьер
-http://otv.wotom.net:4433/udp/238.1.1.14:1234
 #EXTINF:-1 group-title="СПОРТ ⚽",Беларусь 5 HD
 http://de.kineskop.club/site2/795/1009756_ebdb809143825a2c_0_0_fs2.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Бокс ТВ
-http://109.248.236.21:4433/udp/238.1.1.13:1234
-#EXTINF:-1 group-title="СПОРТ ⚽",Go3 Sport HD
-http://89.254.128.5:22280/tv3_sport_open_hd/video.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Viasat Sport FHD
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:CA:1F:FD&stream=1148896&extension=ts&play_token=yXBpwPXWsr
-#EXTINF:-1 group-title="СПОРТ ⚽",Viasat Sport HD
-http://109.248.236.21:4433/udp/238.1.1.50:1234
 #EXTINF:-1 group-title="СПОРТ ⚽",Viasat Sport
 http://de.kineskop.club/site2/57/1009756_16439c53b5ad67f2_0_0_fs2.m3u8
-#EXTINF:0 group-title="СПОРТ ⚽",TSN 1
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:7e:23:76&stream=20476&extension=ts&play_token=mv32LE6nwm
-#EXTINF:0 group-title="СПОРТ ⚽",TSN 2
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:7e:23:76&stream=20475&extension=ts&play_token=8kI2v92ZqE
-#EXTINF:0 group-title="СПОРТ ⚽",TSN 3
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:7e:23:76&stream=20474&extension=ts&play_token=pJvKIiSnbL
-#EXTINF:0 group-title="СПОРТ ⚽",TSN 4
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:7e:23:76&stream=20473&extension=ts&play_token=VhAslqRWAs
-#EXTINF:0 group-title="СПОРТ ⚽",TSN 5
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:7e:23:76&stream=20472&extension=ts&play_token=BURvrSxPP4
-#EXTINF:-1 tvg-name="hr: arena sport 1" group-title="СПОРТ ⚽",Arena Sport 1
-http://94.250.2.6:10600/play/sfwZs8fQbA
-#EXTINF:-1 tvg-name="hr: arena sport 2" group-title="СПОРТ ⚽",Arena Sport 2
-http://94.250.2.6:10600/play/uOcKOWbtpc
-#EXTINF:-1 tvg-name="hr: arena sport 3" group-title="СПОРТ ⚽",Arena Sport 3
-http://94.250.2.6:10600/play/Fj6334HwK3
-#EXTINF:-1 tvg-name="hr: arena sport 4" group-title="СПОРТ ⚽",Arena Sport 4
-http://94.250.2.6:10600/play/m4NCbyvPl9
-#EXTINF:-1 tvg-name="hr: arena sport 5" group-title="СПОРТ ⚽",Arena Sport 5
-http://94.250.2.6:10600/play/wCbmzRH3H1
-#EXTINF:-1 tvg-name="hr: arena sport 6" group-title="СПОРТ ⚽",Arena Sport 6
-http://94.250.2.6:10600/play/Vj2ZxGEwct
-#EXTINF:-1 tvg-name="hr: arena fight" group-title="СПОРТ ⚽",Arena Fight
-http://94.250.2.6:10600/play/A2fQIX6OY1
-#EXTINF:-1 group-title="СПОРТ ⚽",Arena 1 Premium HD
-http://94.250.2.6:10600/play/gtIDEfibBy
-#EXTINF:-1 group-title="СПОРТ ⚽",Arena 2 Premium HD
-http://94.250.2.6:10600/play/LjzYChqCJD
-#EXTINF:-1 group-title="СПОРТ ⚽",Arena 3 Premium HD
-http://94.250.2.6:10600/play/0QhXJ9nCVj
-#EXTINF:-1 tvg-name="hr: sport klub 1 fhd" group-title="СПОРТ ⚽",Arena Sport 1×2
-http://94.250.2.6:10600/play/z3ieUUSzrn
-#EXTINF:-1 tvg-name="hr: sport klub 5 fhd" group-title="СПОРТ ⚽",TVP Sport HD
-https://cdn-nvm-chicago.lolokoko.tv/tvpsport.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl: fightbox hd" group-title="СПОРТ ⚽",Fightbox HD
-https://cdn-nvm-chicago.lolokoko.tv/fightbox.stream/chunks.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",Billiard TV HD
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",EDGE Sport HD
-https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="pl : canal+ sport 2 hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : CANAL+ SPORT 2 HD
-https://cdn-nvm-chicago.lolokoko.tv/canalplussport2.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl : canal+ sport 3 hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : CANAL+ SPORT 3 HD
-https://cdn-nvm-chicago.lolokoko.tv/canalplussport3.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl : canal+ sport 4 hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : CANAL+ SPORT 4 HD
-https://cdn-nvm-chicago.lolokoko.tv/canalplussport4.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl : polsat sport extra hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : POLSAT SPORT EXTRA HD
-https://cdn-nvm-chicago.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl : polsat sport hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : POLSAT SPORT HD
-https://cdn-nvm-chicago.lolokoko.tv/polsatsport.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl : polsat sport news hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : POLSAT SPORT NEWS HD
-https://cdn-nvm-chicago.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl : polsat sport premium 1 hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : POLSAT SPORT PREMIUM 1 HD
-https://cdn-nvm-chicago.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="pl : polsat sport premium 1 hd" tvg-logo="https://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="СПОРТ ⚽",PL : POLSAT SPORT PREMIUM 2 HD
-https://cdn-nvm-chicago.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Band Sports HD
-http://187.95.95.247/Band-Sports/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",FOX Sports HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="СПОРТ ⚽",Sky Sports HD
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Premier League HD
-http://94.250.2.6:10600/play/fS1axmthw5
 #EXTINF:-1 group-title="СПОРТ ⚽",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="СПОРТ ⚽",Premier sports 5 HD
-http://202.21.104.6:88/sps-plus/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",Premier Sports 3 HD
-http://202.21.104.6:88/sps-world/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4auhwhjfcgn732s" group-title="СПОРТ ⚽",ESPN HD
-http://a.stroj-bt.com:89/play/NqorPzbRDRfVxt0vlw-KBuNLuzSZ3r6Z5wv0bg3KKdeRB_4QCre6kmLdEU7tB9QlyZb3I54ujzzqsKd-WcFNaIUmQqIpq5VtSgePHoM0wHNhYYHbxiYQevydPk-BmzJliHSKsh1M71xKMgjuTbZ06RJGyAAMzF58ROuWgHCkKIc?ext=.ts
 #EXTINF:-1 group-title="СПОРТ ⚽",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",ESPN 2 
-http://a.stroj-bt.com:89/play/NqorPzbRDRfVxt0vlw-KBuNLuzSZ3r6Z5wv0bg3KKdeRB_4QCre6kmLdEU7tB9QlyZb3I54ujzzqsKd-WcFNaIUmQqIpq5VtSgePHoM0wHPk3fN_fo9Md-cCSAh4eTA3vCZx6ZSyaqX6QfZwv-4rPplhvbgp7Q_O8h4iZLwgGkE?ext=.ts
 #EXTINF:-1 group-title="СПОРТ ⚽",ESPN 2 
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 group-title="СПОРТ ⚽",ESPN 3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="СПОРТ ⚽",ESPN Deportes HD
-http://a.stroj-bt.com:89/play/NqorPzbRDRfVxt0vlw-KBuNLuzSZ3r6Z5wv0bg3KKdeRB_4QCre6kmLdEU7tB9QlyZb3I54ujzzqsKd-WcFNaIUmQqIpq5VtSgePHoM0wHNbIeU4nR2kLTDyqmsR0ESlHPbiQnlOXu8DN63DpsD0sNH6zVSTDYNxbttSowCTJSQ?ext=.ts
-#EXTINF:-1 group-title="СПОРТ ⚽",ESPNNews HD
-http://a.stroj-bt.com:89/play/NqorPzbRDRfVxt0vlw-KBuNLuzSZ3r6Z5wv0bg3KKdeRB_4QCre6kmLdEU7tB9QlyZb3I54ujzzqsKd-WcFNaIUmQqIpq5VtSgePHoM0wHNhUKuQsKCLy692uIJ3z5S5vx1qFfbJNN4DEcZ7Gunknv3rBslhJUUOKv-qMMrlrPo?ext=.ts
 
 #EXTINF:-1,E TV HD
 #EXTGRP:Развлекательные
@@ -660,18 +468,12 @@ http://tis.catcast.tv/content/391/index.m3u8
 
 #EXTINF:-1 group-title="Торрент ТВ",Первый канал
 http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
-#EXTINF:-1 group-title="Торрент ТВ",Первый канал Евразия
-http://127.0.0.1:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270&.mp4
-#EXTINF:-1 group-title="Торрент ТВ",Россия 1 HD
-http://127.0.0.1:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",Россия РТР
 http://127.0.0.1:6878/ace/getstream?id=8410d13737ac090732898be21e6dd55dabb031fe&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",ТНТ HD
 http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
-#EXTINF:-1 group-title="Торрент ТВ",РЕН ТВ
-http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",НТВ Стиль
