@@ -808,10 +808,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e0
 http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
 #EXTINF:-1 group-title="Торрент ТВ" tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
 http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
-#EXTINF:-1 group-title="Торрент ТВ" tvg-logo="https://i.postimg.cc/02nvLv7d/RTL-UHD-Logo.jpg",RTL UHD
-http://127.0.0.1:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
-#EXTINF:-1 group-title="Торрент ТВ",SKY Bundesliga UHD
-http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",VIVA HD
 http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",Bridge HD
