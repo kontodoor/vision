@@ -2222,5 +2222,81 @@ http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
 https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png" ,1TV (720p)
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/FJBL6zI.png" ,2TV (720p)
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" ,Zarok TV Sorani (720p)
+#EXTGRP:Грузия
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-logo="https://i.imgur.com/BW95PMF.png" ,Palitra News (480p) [Not 24/7]
+#EXTGRP:Грузия
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge" tvg-logo="https://i.imgur.com/94hNyxZ.png" ,Imedi TV (1080p)
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="Formula.ge" tvg-logo="https://i.imgur.com/fsqBn8G.png" ,Formula (1080p)
+#EXTGRP:Грузия
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="RioniTV.ge" tvg-logo="https://i.imgur.com/ogMqmth.png" ,Rioni TV (720p) [Not 24/7]
+#EXTGRP:Грузия
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1,Formula
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8
+#EXTINF:-1,1 არხი
+#EXTGRP:Грузия
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,1 არხი განათლება
+#EXTGRP:Грузия
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ფორმულა
+#EXTGRP:Грузия
+http://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1,1 Radio
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1,1TV HD
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 tvg-id="2560" tvg-name="1TVGeorgia" tvg-logo="http://epg.it999.ru/img/2560.png",1TVGeorgia
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,2 Radio
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1,Formula TV HD
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
+#EXTINF:-1,Imedi TV
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2568" tvg-name="PalitraNews" tvg-logo="http://epg.it999.ru/img/2568.png",Palitranews
+#EXTGRP:Грузия
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1,1HD
+#EXTGRP:Грузия
+https://ipv4.bozztv.com/dvrfl07/ushba37/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Formula TV HD
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
+#EXTINF:-1,Palitranews
+#EXTGRP:Грузия
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1,1TV HD
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1,1 Radio
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1,2 Radio
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2560.png",1TVGeorgia
+#EXTGRP:Грузия
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+
 
 
