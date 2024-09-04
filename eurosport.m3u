@@ -1,3 +1,6 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
+
+
 #EXTINF:-1 group-title="Торрент ТВ",Eurosport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
 #EXTINF:-1 group-title="Торрент ТВ",Eurosport 2 HD
