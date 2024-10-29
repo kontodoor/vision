@@ -148,7 +148,7 @@ http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
 #EXTINF:-1 group-title="Кино",ТВ XXI
 http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
-#EXTINF:-1 group-title="Эфирные",Страшное HD
+#EXTINF:-1 group-title="Кино",Страшное HD
 http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
@@ -442,41 +442,44 @@ http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&
 
 
 
+
+
+
 #EXTINF:-1 group-title="Спортивные",Конный мир HD
 http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Моторспорт ТВ
+#EXTINF:-1 group-title="Спортивные",Моторспорт ТВ
 http://127.0.0.1:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",КХЛ ТВ
+#EXTINF:-1 group-title="Спортивные",КХЛ ТВ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",KHL Prime HD
+#EXTINF:-1 group-title="Спортивные",KHL Prime HD
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",VIASAT SPORT HD
+#EXTINF:-1 group-title="Спортивные",VIASAT SPORT HD
 http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Футбольный HD
+#EXTINF:-1 group-title="Спортивные",Футбольный HD
 http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Хоккейный HD
+#EXTINF:-1 group-title="Спортивные",Хоккейный HD
 http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Футбол HD
+#EXTINF:-1 group-title="Спортивные",Футбол HD
 http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",FightBox HD
+#EXTINF:-1 group-title="Спортивные",FightBox HD
 http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Бокс ТВ
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Extreme Sports
+#EXTINF:-1 group-title="Спортивные",Extreme Sports
 http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Eurosport 1 HD
+#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Eurosport 2 HD
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",UFC HD
+#EXTINF:-1 group-title="Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Старт
+#EXTINF:-1 group-title="Спортивные",Старт
 http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Спортивный
+#EXTINF:-1 group-title="Спортивные",Спортивный
 http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Мир Баскетбола
+#EXTINF:-1 group-title="Спортивные",Мир Баскетбола
 http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
-#EXTINF:-1 group-title="СпортивныеСпортивные",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
@@ -558,9 +561,6 @@ http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&.mp4
 #EXTINF:-1 group-title="Спортивные" tvg-logo="http://epg.it999.ru/img/4571.png",SKY SPORTS MAIN EVENT UK
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&.mp4
-
-
-
 
 
 
