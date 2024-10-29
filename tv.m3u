@@ -5,6 +5,7 @@
 
 
 
+
 #EXTINF:-1 group-title="Эфирные",Первый канал
 http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
 #EXTINF:-1 group-title="Эфирные",Россия РТР
@@ -1686,7 +1687,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=d2d86cf5b97ec439b604627b0fb5b18882e
 http://127.0.0.1:6878/ace/getstream?infohash=9650f12d9a13248dc7ee4919eb208b0eff3c563a&.mp4
 
 
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz"
+
 
 
 #EXTINF:-1 group-title="Эфирные (доп.резерв)" tvg-logo="http://epg.it999.ru/img/983.png",Первый HD
@@ -1736,6 +1737,9 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3552.png",Удар
+#EXTGRP:СПОРТ (РЕЗЕРВ)
+https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="СПОРТ (РЕЗЕРВ)",FightBox HD
 https://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="СПОРТ (РЕЗЕРВ)",OLSIB IMPACT! WRESTLING HD
@@ -1802,8 +1806,6 @@ http://195.26.83.96:7029/play/a008
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="Развлекательные (резерв)" tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные (резерв)" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",This is Bulgaria HD
-https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 #EXTINF:-1 group-title="Развлекательные (резерв)" tvg-logo="http://www.tbnbaltia.eu/img/tbn-baltia-2-white-trans.png",TBN BALTIA
 http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 
@@ -1875,10 +1877,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://www.1muz.com/images/LOGORUS.png",Первый музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Amva HD
-http://muzzik-live.morescreens.com/mts-8/chunklist.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Sense HD
-http://muzzik-live.morescreens.com/mts-7/chunklist.m3u8
 #EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Cafe&Club
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik HipHop
@@ -1895,28 +1893,6 @@ https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg",V2Beat TV Live
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5475.png",Stingray Classic Rock HD
-https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5477.png",Stingray Alternative HD
-https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5465.png",Stingray Pop Adult HD
-https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5466.png",Stingray Hit List HD
-https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5464.png",Stingray Hot Country HD
-https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5476.png",Stingray Flashback 70's HD
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5478.png",Stingray Remember the 80s HD
-https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5468.png",Stingray Hip-Hop/R&B HD
-https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5469.png",Stingray Soul Storm HD
-https://stirr.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5470.png",Stingray Greatest Hits HD
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="http://epg.it999.ru/img2/5471.png",Stingray Exitos del Momento HD
-https://stirr.ott-channels.stingray.com/190/master.m3u8
 #EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Best of Dance TV
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="Зарубежные музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Deep House District
@@ -1947,30 +1923,22 @@ http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
 https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.postimg.cc/L8X5NW5Z/unnamed.jpg",Тивиком
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://gtrklnr.com/wp-content/uploads/proekty/300/filmilugansk24.jpg",Луганск 24
-https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://limehd.tv/images/seo/svoetv_1.jpg",Своё ТВ
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.rgvktv.ru/templates/gk_gamenews/images/logo.png",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.it999.ru/img/2570.png",КТК
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://ramtv.ru/wp-content/uploads/2021/12/cropped-Logo2020-white2-e1640011054620.png",Раменское ТВ
 https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://s3.spbtv.com/rosing-production/b292391b35e16613df3e.png",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.postimg.cc/BbWJfGRT/2008-2010.png",ТВК (Красноярск)
-https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.postimg.cc/wTwrKSfy/1.jpg",Миллет
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://logotype.download/tv/12186.png",ТРК 555 HD
 http://trk555.tv:8888/live
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.it999.ru/img/2440.png",Тамыр
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
-https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.it999.ru/img/2410.png",Курай TV
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522085478_ing.jpeg",НТК ИНГУШЕТИЯ
@@ -1981,8 +1949,6 @@ http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.postimg.cc/8zND9mnj/images.png",Осетия-Ирыстон
 https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.postimg.cc/bwsLzK5M/213s.jpg",Небеса ТВ7
-https://vod.tv7.fi/tv7-ru/_definst_/smil:tv7-ru.smil/chunklist_w802965519_b946000_slru.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://cdn01.prnews.io/content/sites/logos/c591ebb0b0482e1475b031904b1d8ece.jpeg",Истоки ТВ
 http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://trotek.online/img/logo.png",Тротек
@@ -2025,8 +1991,6 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://tv-11.ru/wp-content/uploads/2021/12/logo_shapka.jpg",Наш Дом
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.archive.inform.kz/fotoarticles/20120221175352.jpg",QAZAQSTAN
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.it999.ru/img/2157.png",Архыз 24
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
@@ -2095,9 +2059,6 @@ https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2568" tvg-name="PalitraNews" tvg-logo="http://epg.it999.ru/img/2568.png",Palitranews
 #EXTGRP:Грузия
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1,1HD
-#EXTGRP:Грузия
-https://ipv4.bozztv.com/dvrfl07/ushba37/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Formula TV HD
 #EXTGRP:Грузия
 https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
