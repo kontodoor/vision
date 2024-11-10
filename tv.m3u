@@ -2079,6 +2079,89 @@ https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/3Cwn1Zx/SGN-04-13-2022-1649875763996.png" ,Song TV
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/Fmr4gG9/SGN-12-18-2021-1639837555217.png" ,Azatutyun TV HD 
+http://timeshift.arpinet.am/244/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" ,USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/7Xrc4n9/SGN-10-20-2021-1634751061579.png" ,Kentron TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/YpGS1pS/SGN-04-13-2022-1649796240900.png" ,Armenia tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/vLVfQ1y/SGN-03-25-2022-1648158264793.png",H1
+http://timeshift.arpinet.am/1/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/7NbwNZh/SGN-12-18-2021-1639835945728.png",H1 Lurer
+https://amtv1-2.livestreamingcdn.com/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/H2_road_%28Armenia%29.png",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s2/m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/G9nqN7f/SGN-05-08-2022-1652038669927.png",Armenia Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/zm0q3pj/SGN-05-09-2022-1652040188384.png",Armenia Հայ Կինո
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/ZLs9XPh/SGN-05-09-2022-1652040851687.png",Armenia Ջան TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/sHJ62mP/SGN-05-09-2022-1652041186732.png",Armenia Քոմեդի
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/6Y1DQPG/SGN-05-09-2022-1652042036384.png",Armenia Տուն Թունիկ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/7VgFwqx/SGN-05-09-2022-1652042732368.png",Armenia Սինեմաքս
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Թավա TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV ԽաղԱլիք
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Հայ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Ֆիլմզոն
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/yigw9dr.png",5-րդ ալիք
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png",21TV
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/MPm1B49/SGN-03-26-2022-1648281672873.png",Erkir media
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/2KR5mvs/SGN-03-08-2022-1646732313111.png",Shoxakat
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/cNd3616/SGN-03-08-2022-1646748957859.png",5 plus
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/Tmw7Kgm/SGN-12-18-2021-1639838992456.png",Noor tv USA
+https://streamer1.connectto.com/Noor_275/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png",Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.imgur.com/3vQVwUV.jpg",Amga TV
+https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲",Radio Van 103.0 FM Yerevan
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/fYrv8Kw/SGN-03-25-2022-1648156980157.png",AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTINF:-1 group-title="Армения 🇦🇲" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png",Շանթ
+http://5.188.172.179/Shant/index.m3u8
+
 
 
 
