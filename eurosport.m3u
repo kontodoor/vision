@@ -5,8 +5,8 @@
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
 #EXTINF:-1,Eurosport 2 HD
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
-#EXTINF:-1,Дождь
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:0 catchup-days="2" timeshift="2" tvg-rec="2" tvg-id="dozhd" tvg-logo="https://img.caribo.net/picons/ru/dozhd.png", Дождь
+http://em.gazoni1.com:80/live/s.302398.8705df6ad5b9ccad88a5a4b8cb3923723/dozd/video.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Super Tennis
